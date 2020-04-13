@@ -7,8 +7,8 @@
 
 ## source functions 
 t1 = Sys.time()
-curDate = Sys.Date(); print(curDate)
-#curDate = '2020-04-11'
+#curDate = Sys.Date(); print(curDate)
+curDate = '2020-04-12'
 
 #setwd('C:/forgithub/COVID19_LookAtUsTodaySeeYourselfTomorrow')
 getwd()
@@ -20,6 +20,7 @@ source(file.path(getwd(), 'cvd_county_matchedProjected.R'))
 library(ggplot2)
 library(data.table)
 library(formattable)
+library(ggpubr)
 
 # fetch JHU
 urlJhu = 'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv'

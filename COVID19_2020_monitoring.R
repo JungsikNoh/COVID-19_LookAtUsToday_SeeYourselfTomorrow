@@ -3,6 +3,7 @@
 ## Jungsik Noh, UTSW, Dallas, TX
 ## 
 # Updates:
+# 04/13/2020, Noh. Add 3-plot output. Add -uptodate output folder.
 # 04/12/2020, Noh. X lab changed. No. of total cases added.
 # 04/11/2020, Noh. Add ref line. Add TX county analysis.
 # 04/10/2020, Noh. Starting day is adjusted. 
@@ -10,10 +11,10 @@
 
 ## source functions 
 t1 = Sys.time()
-curDate = Sys.Date(); print(curDate)
-#curDate = '2020-04-11'
+#curDate = Sys.Date(); print(curDate)
+curDate = '2020-04-12'
 
-#setwd('C:/forgithub/COVID19_LookAtUsTodaySeeYourselfTomorrow')
+#setwd('C:/githubClone/COVID-19_LookAtUsToday_SeeYourselfTomorrow')
 print(getwd())
 
 source(file.path(getwd(), 'cvd_state_matchedProjected.R'))
@@ -23,6 +24,7 @@ source(file.path(getwd(), 'cvd_county_matchedProjected.R'))
 library(ggplot2)
 library(data.table)
 library(formattable)
+library(ggpubr)
 
 # fetch JHU
 urlJhu = 'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv'

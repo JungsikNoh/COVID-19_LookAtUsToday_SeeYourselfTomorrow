@@ -110,7 +110,7 @@ cvd_county_matchedProjected = function(curDate, stname, jhudat, TXcountyDat,
   ITpop = populationData$Population_2020_UN[(populationData$region == 'Italy')]
   
   ## X population: popTXcounty 
-  
+  myStName = popTXcounty$CTYNAME
   stInd = which(myStName == paste0(stname, ' County'))
   if (length(stInd) == 0){ return() }
   #stfullname = myStName[stInd]
@@ -223,7 +223,7 @@ cvd_county_matchedProjected = function(curDate, stname, jhudat, TXcountyDat,
   tmp1 = data.frame(Day = datf3L$Day, Today = stname, val = datf3L$growth.X)
   tmp2 = data.frame(Day = datf3L$Day, Today = 'Korea.Adj', val = datf3L$growth.Korea)
   tmp3 = data.frame(Day = datf3L$Day, Today = 'Italy.Adj', val = datf3L$growth.Italy)
-  ggp_datf3L = rbind(tmp1, tmp2, tmp3)
+  ggp_datf3LGR = rbind(tmp1, tmp2, tmp3)
   
   fig2 <- ggplot() +
     #geom_line(data = datf3, aes(Day, maGRX), size=1, alpha=0.8, color='gray', 
@@ -231,7 +231,7 @@ cvd_county_matchedProjected = function(curDate, stname, jhudat, TXcountyDat,
     geom_line(data=datf3, aes(Day, growth.X), size=2, alpha=0.8, color='black') +
     geom_line(data=datf3, aes(Day, growth.Korea), size=2, alpha=0.3, color='blue') +
     geom_line(data=datf3, aes(Day, growth.Italy), size=2, alpha=0.3, color='red') +
-    geom_point(data = ggp_datf3L, aes(x=Day, y=val, color=Today), size=4, alpha=0.8) +
+    geom_point(data = ggp_datf3LGR, aes(x=Day, y=val, color=Today), size=4, alpha=0.8) +
     scale_color_manual(values = c('black', 'blue', 'red')) +
     theme_bw() 
   #geom_point(data=datf3L, aes(Day, growth.Korea), size=4, alpha=0.8, color='blue') +
@@ -594,6 +594,95 @@ cvd_county_matchedProjected = function(curDate, stname, jhudat, TXcountyDat,
   dev.off()
   Sys.sleep(4)
   
+  # 3-plot output
+  
+  cfig1 <- ggplot(data = datf3) +
+    geom_line(data = datf3, aes(Day, dif.X), size=1, alpha=0.8, color='black') +
+    geom_line(data = datf3, aes(Day, dif.Korea), size=1, alpha=0.3, color='blue') +
+    geom_line(data = datf3, aes(Day, dif.Italy), size=1, alpha=0.3, color='red') +
+    geom_point(data = ggp_datf3L, aes(x=Day, y=val, color=Today), size=2, alpha=0.8) +
+    scale_color_manual(values = c('black', 'blue', 'red')) +
+    theme_bw() +
+    labs(title = 'New Cases Per-day', 
+         x= paste0('Days since total cases became > ', totalCases_threshold_toSetStart), 
+         y='', 
+         subtitle = paste0('As of ', curDate, XtotalforMsg)) +
+    theme(plot.title = element_text(hjust = 0.5, size=rel(1)), 
+          plot.subtitle = element_text(hjust = 0, size=rel(0.7)),
+          axis.text = element_text(size = rel(1) ), 
+          axis.title = element_text(size=rel(1)), 
+          legend.position = 'top', legend.title = element_text(size= rel(1)), 
+          legend.text = element_text(size = rel(1)))
+  print(cfig1)
+  
+  cfig21 <- ggplot() +
+    #geom_line(data = datf3, aes(Day, maGRX), size=1, alpha=0.8, color='gray', 
+    #          linetype = 'solid') +
+    geom_line(data=datf3ma, aes(Day, growth.X), size=1, alpha=0.8, color='black') +
+    geom_line(data=datf3ma, aes(Day, growth.Korea), size=1, alpha=0.3, color='blue') +
+    geom_line(data=datf3ma, aes(Day, growth.Italy), size=1, alpha=0.3, color='red') +
+    geom_point(data = ggp_datf3maL, aes(x=Day, y=val, color=Today), size=2, alpha=0.8) +
+    scale_color_manual(values = c('black', 'blue', 'red')) +
+    theme_bw()  + 
+    geom_hline(yintercept = refLineVal) +
+    coord_cartesian(ylim = c(0, 70)) +
+    labs(title = 'Trend Curve of the Daily Growth Rates', 
+         x= paste0('Days since total cases became > ', totalCases_threshold_toSetStart), 
+         y='Percentage', 
+         subtitle = paste0('As of ', curDate, XtotalforMsg)) +
+    theme(plot.title = element_text(hjust = 0.5, size=rel(1)), 
+          plot.subtitle = element_text(hjust = 0, size=rel(0.7)),
+          axis.text = element_text(size = rel(1) ), 
+          axis.title = element_text(size=rel(1)), 
+          legend.position = 'top', legend.title = element_text(size = rel(1)), 
+          legend.text = element_text(size = rel(1)))
+  print(cfig21)
+  
+  myCaptn5 = paste0('If ', stname, ' follows the track of Korea, ', '\n',
+                    'its new cases of ', difX, ' today would become ', 
+                    difprjKO, ' in ', 
+                    daysProjected[1], ' days.')
+  myCaptn6 = paste0('If ', stname, ' follows the track of Italy, ', '\n',
+                    'its new cases of ', difX, ' today would become ', 
+                    difprjIT, ' in ', 
+                    daysProjected[2], ' days.')
+  cfig4 <- ggplot() +
+    geom_line(data=datf3_prj3_algn3, aes(daysFromToday, dif.X), size=1, alpha=0.8, color='black') +
+    geom_line(data=datf3_prj3_algn3, aes(daysFromToday, dif.Korea), size=1, alpha=0.3, color='blue') +
+    geom_line(data=datf3_prj3_algn3, aes(daysFromToday, dif.Italy), size=1, alpha=0.3, color='red') +
+    geom_point(data = ggp_datf3_prj3_algn3L, aes(x=daysFromToday, y=val, color=Today), size=2, alpha=1) +
+    scale_color_manual(values = c('black', 'blue', 'red')) +
+    theme_bw() +
+    theme_bw() +
+    geom_line(data = datf3_prj3_algn3, aes(daysFromToday, dif.grKO.prj.tot.X), 
+              size=1, alpha=0.8, color='blue', linetype='F1') +
+    geom_line(data = datf3_prj3_algn3, aes(daysFromToday, dif.grIT.prj.tot.X), 
+              size=1, alpha=0.8, color='red', linetype='F1') + 
+    labs(title = 'Matched/Projected New Cases Per-day', 
+         x= paste0('Days from today of ', stname), y='', 
+         subtitle = paste0(myCaptn5, '\n', myCaptn6)) +
+    #caption = paste0(myCaptn3, '\n', myCaptn4)) +
+    theme(plot.title = element_text(hjust = 0.5, size=rel(1)), 
+          plot.subtitle = element_text(hjust = 0, size=rel(0.7)),
+          axis.text = element_text(size = rel(1) ), 
+          axis.title = element_text(size=rel(1)), 
+          legend.position = 'top', legend.title = element_text(size = rel(1)), 
+          legend.text = element_text(size = rel(1)), 
+          plot.caption = element_text(hjust = 0, size = rel(1)))
+  print(cfig4)
+  
+  cfig <- ggarrange(cfig1, cfig21, cfig4, ncol=3, nrow=1) 
+  print(cfig)
+  
+  f5name = paste0(stname, '_3plot_combined.pdf')
+  # 12 inches
+  pdf(file.path(outPath, f5name), width=12, height=3)
+  Sys.sleep(2)
+  print(cfig)
+  Sys.sleep(2)
+  dev.off()
+  Sys.sleep(4)  
+  
   
   ##
   ## output
@@ -607,6 +696,12 @@ cvd_county_matchedProjected = function(curDate, stname, jhudat, TXcountyDat,
   projected_daily_data = datf3_prj3_algn3
   write.csv(projected_daily_data, fname1, row.names = FALSE)
   write.csv(totalCases_3countries, fname2, row.names = T)
+  
+  #
+  outPath2 = file.path(getwd(), 'output', 'TX_counties_uptodate')  
+  if (!dir.exists(outPath2)) dir.create(outPath2, recursive = T)
+  listoffiles = list.files(path = outPath)
+  file.copy(from= file.path(outPath, listoffiles), to=outPath2, overwrite = T, recursive = T)
   
   result = list(StateAbb = stname, myCaptn1=myCaptn1, myCaptn2=myCaptn2, 
                 myCaptn3=myCaptn3, myCaptn4=myCaptn4)
