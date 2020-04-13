@@ -139,6 +139,3 @@ for (i in 1:numState){
 
 t2=Sys.time(); t2 - t1
 ## EOF
-
-
-

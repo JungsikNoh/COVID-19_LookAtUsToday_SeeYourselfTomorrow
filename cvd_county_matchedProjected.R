@@ -199,8 +199,8 @@ cvd_county_matchedProjected = function(curDate, stname, jhudat, TXcountyDat,
           legend.text = element_text(size = rel(1.5)))
   print(fig1out)
   
-  f1name = paste0(stname, '_newCases.pdf')
-  pdf(file.path(outPath, f1name), width=8, height=4)
+  f1name = paste0(stname, '_newCases.png')
+  png(file.path(outPath, f1name), width=8, height=4, units = "in", res=300)
   Sys.sleep(2)
   print(fig1out)
   Sys.sleep(2)
@@ -250,8 +250,8 @@ cvd_county_matchedProjected = function(curDate, stname, jhudat, TXcountyDat,
           legend.text = element_text(size = rel(1.5)))
   print(fig2out)
   
-  f2name = paste0(stname, '_growthRate.pdf')
-  pdf(file.path(outPath, f2name), width=8, height=4)
+  f2name = paste0(stname, '_growthRate.png')
+  png(file.path(outPath, f2name), width=8, height=4, units = "in", res=300)
   Sys.sleep(2)
   print(fig2out)
   Sys.sleep(2)
@@ -305,8 +305,8 @@ cvd_county_matchedProjected = function(curDate, stname, jhudat, TXcountyDat,
           legend.text = element_text(size = rel(1.5)))
   print(fig21out)
   
-  f21name = paste0(stname, '_growthRate_trend.pdf')
-  pdf(file.path(outPath, f21name), width=8, height=4)
+  f21name = paste0(stname, '_growthRate_trend.png')
+  png(file.path(outPath, f21name), width=8, height=4, units = "in", res=300)
   Sys.sleep(2)
   print(fig21out)
   Sys.sleep(2)
@@ -434,8 +434,8 @@ cvd_county_matchedProjected = function(curDate, stname, jhudat, TXcountyDat,
           plot.caption = element_text(hjust = 0, size = rel(1)))
   print(fig3out)
   
-  f3name = paste0(stname, '_growthRate_matchedProjected.pdf')
-  pdf(file.path(outPath, f3name), width=8, height=4.5)
+  f3name = paste0(stname, '_growthRate_matchedProjected.png')
+  png(file.path(outPath, f3name), width=8, height=4.5, units = "in", res=300)
   Sys.sleep(2)
   print(fig3out)
   Sys.sleep(2)
@@ -586,8 +586,8 @@ cvd_county_matchedProjected = function(curDate, stname, jhudat, TXcountyDat,
           plot.caption = element_text(hjust = 0, size = rel(1)))
   print(fig4out)
   
-  f4name = paste0(stname, '_newCases_matchedProjected.pdf')
-  pdf(file.path(outPath, f4name), width=8, height=4.5)
+  f4name = paste0(stname, '_newCases_matchedProjected.png')
+  png(file.path(outPath, f4name), width=8, height=4.5, units = "in", res=300)
   Sys.sleep(2)
   print(fig4out)
   Sys.sleep(2)
@@ -674,9 +674,9 @@ cvd_county_matchedProjected = function(curDate, stname, jhudat, TXcountyDat,
   cfig <- ggarrange(cfig1, cfig21, cfig4, ncol=3, nrow=1) 
   print(cfig)
   
-  f5name = paste0(stname, '_3plot_combined.pdf')
+  f5name = paste0(stname, '_3plot_combined.png')
   # 12 inches
-  pdf(file.path(outPath, f5name), width=12, height=3)
+  png(file.path(outPath, f5name), width=12, height=3, units = "in", res=300)
   Sys.sleep(2)
   print(cfig)
   Sys.sleep(2)
