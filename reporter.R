@@ -22,11 +22,11 @@ cnamePop = cbind(cname, countryNamePop[,2:3])
 outPath3 = file.path(getwd(), 'output', 'countries_uptodate')
 if (file.exists(file.path(outPath3, 'Korea, South_3plot_combined.png'))) {
   file.copy(file.path(outPath3, 'Korea, South_3plot_combined.png'), 
-            file.path(outPath3, 'Korea,-South_3plot_combined.png'))
+            file.path(outPath3, 'Korea,-South_3plot_combined.png'), overwrite = T)
 }
 if (file.exists(file.path(outPath3, 'United Kingdom_3plot_combined.png'))) {
   file.copy(file.path(outPath3, 'United Kingdom_3plot_combined.png'), 
-            file.path(outPath3, 'United-Kingdom_3plot_combined.png'))
+            file.path(outPath3, 'United-Kingdom_3plot_combined.png'), overwrite = T)
 }
 
 
@@ -86,11 +86,11 @@ Ctname[which(Ctname == "El Paso")] <- 'El-Paso'
 outPath4 = file.path(getwd(), 'output', 'TX_counties_uptodate')
 if (file.exists(file.path(outPath4, 'Fort Bend_3plot_combined.png'))) {
   file.copy(file.path(outPath4, 'Fort Bend_3plot_combined.png'), 
-            file.path(outPath4, 'Fort-Bend_3plot_combined.png'))
+            file.path(outPath4, 'Fort-Bend_3plot_combined.png'), overwrite = T)
 }
 if (file.exists(file.path(outPath4, 'El Paso_3plot_combined.png'))) {
   file.copy(file.path(outPath4, 'El Paso_3plot_combined.png'), 
-            file.path(outPath4, 'El-Paso_3plot_combined.png'))
+            file.path(outPath4, 'El-Paso_3plot_combined.png'), overwrite = T)
 }
 
 

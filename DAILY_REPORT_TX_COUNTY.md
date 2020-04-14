@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-04-12, COVID-19 Time Series
+## 2020-04-13, COVID-19 Time Series
 # TX counties with cumulative confirmed cases > 200
 
 
@@ -59,6 +59,10 @@
  <p>&nbsp;</p> 
 
 >![img](/output/TX_counties_uptodate/Brazoria_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
+>![img](/output/TX_counties_uptodate/Webb_3plot_combined.png)
 
  <p>&nbsp;</p> 
 

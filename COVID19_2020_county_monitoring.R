@@ -8,9 +8,9 @@
 ## source functions 
 t1 = Sys.time()
 #curDate = Sys.Date(); print(curDate)
-curDate = '2020-04-12'
+curDate = '2020-04-13'
 
-#setwd('C:/forgithub/COVID19_LookAtUsTodaySeeYourselfTomorrow')
+#setwd('C:/githubClone/COVID-19_LookAtUsToday_SeeYourselfTomorrow')
 getwd()
 
 source(file.path(getwd(), 'cvd_state_matchedProjected.R'))
