@@ -5,6 +5,7 @@
 
 # assume input datasets are already loaded to workspace
 print(getwd())
+print(curDate)
 
 ##
 ##  country report

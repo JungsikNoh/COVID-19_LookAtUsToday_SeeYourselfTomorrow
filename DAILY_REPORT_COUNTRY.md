@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-04-12, COVID-19 Time Series
+## 2020-04-13, COVID-19 Time Series
 # Countries (top 25)
 
 
@@ -66,11 +66,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Portugal_3plot_combined.png)
+>![img](/output/countries_uptodate/Russia_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Russia_3plot_combined.png)
+>![img](/output/countries_uptodate/Portugal_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -82,15 +82,15 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Korea,-South_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
 >![img](/output/countries_uptodate/Sweden_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
 >![img](/output/countries_uptodate/Ireland_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
+>![img](/output/countries_uptodate/Korea,-South_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
