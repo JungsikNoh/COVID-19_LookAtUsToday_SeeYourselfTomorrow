@@ -10,7 +10,9 @@ Such curves for COVID-19 show us that some countries like China, Korea and Italy
 
 Showing the ever-increasing number of new cases every day, New York Governor Andrew Cuomo sent the message on April 1, 2020. 
 A data science pipeline presented here tries to implement exactly what Governor Cuomo said in a quantitative manner. 
-By looking at the preceding pandemic time courses in Italy and Korea, we seek to answer how many new confirmed cases in a country or a region could occur in the near future. 
+By looking at the preceding pandemic trajectories in Italy and Korea, 
+we seek to answer how much the U.S. or a region is behind Italy or Korea on the pandemic progression, 
+so that we can picture how many new confirmed cases in the region could be projected in the near future.
 
 To monitor the progression of COVID-19 spreading, an informative statistic is the daily growth rate of total cases.
 The time courses of the growth rates in many countries showed a pattern. 
