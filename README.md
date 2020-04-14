@@ -23,3 +23,36 @@ The current level of daily growth rate is a good indicator of the progression st
 The progression can be well monitored by looking at the time course of daily growth rates, of which data visualization was not easily available on the web.
 
 *This data science pipeline and its COVID-19 data visualization will help us monitor the number of confirmed cases and the growth rates every day.* It provides straightforward visualization to see where we are in view of the past of Italy and Korea. Since the analysis compares population-normalized numbers of daily new cases, it also allows us to compare the sizes of the infection in different countries or regions in the U.S. 
+
+## Output
+
+For each region, the pipeline generates 5 time series plots of new cases per-day, daily growth rates, trend of the daily growth rates, time-shifted growth rate curves, and time-shifted new cases per-day in comparison with the curves for Italy and Korea.
+
+For example, daily output plots for the U.S. can be found in [/output/countries/US](/output/countries/US). Up-to-date output for the states in the U.S. can be found in [/output/states_uptodate](/output/states_uptodate).
+
+## Daily Report of COVID-19 Time Series
+
+1. [Countries](DAILY_REPORT_COUNTRY.md)
+2. [States in the U.S.](DAILY_REPORT_STATE.md)
+3. [TX counties with cumulative cases > 200](DAILY_REPORT_TX_COUNTY.md)
+
+## Data sources
+
+- The number of confirmed cases for countries are from COVID-19 data repository of Johns Hopkins CSSE (https://github.com/CSSEGISandData/COVID-19). Updated around 7pm CT.
+- Data at the state level are from the covidtracking project (https://covidtracking.com/). Updated around 4pm CT.
+- Data at the county level are from The New York Times, based on reports from state and local health agencies (https://github.com/nytimes/covid-19-data). Updated around 10am CT the next day.
+
+## Contact
+
+Jungsik Noh (jungsik.noh@utsouthwestern.edu)
+
+
+
+
+
+
+
+
+
+
+
