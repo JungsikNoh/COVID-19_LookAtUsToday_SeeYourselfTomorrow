@@ -5,7 +5,7 @@
  <p>&nbsp;</p> 
 
 ## Daily Report of Confirmed Cases
-# Counties with cumulative confirmed cases > 200
+# TX counties with cumulative confirmed cases > 200
 
 
  <p>&nbsp;</p> 
@@ -50,7 +50,7 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/El&nbspPaso_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/El Paso_3plot_combined.png)
 
  <p>&nbsp;</p> 
 

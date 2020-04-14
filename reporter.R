@@ -45,9 +45,8 @@ cat('# States in the U.S.\n')
 cat('\n\n', '<p>&nbsp;</p>', '\n\n')
 for (i in 1:length(sortedStates)){
   fnametmp = paste0(sortedStates[i], '_3plot_combined.png')
-  if (file.exists(file.path(getwd(), fnametmp) )) {
-    getImg = paste0('>![img](/output/states_uptodate/',
-                    sortedStates[i], '_3plot_combined.png)')
+  if (file.exists(file.path(getwd(), 'output', 'states_uptodate', fnametmp))) {
+    getImg = paste0('>![img](/output/states_uptodate/', fnametmp)
     cat(getImg)
     cat('\n\n', '<p>&nbsp;</p>', '\n\n')
   }
@@ -67,7 +66,7 @@ sink(file.path(getwd(), repname3))
 cat('<img align="right"  height="100" src="/doc/utsw-master-logo-cmyk+BI.png">')
 cat('\n\n', '<p>&nbsp;</p>', '\n\n', '<p>&nbsp;</p>', '\n\n')
 cat('## Daily Report of Confirmed Cases\n')
-cat('# Counties with cumulative confirmed cases > 200\n')
+cat('# TX counties with cumulative confirmed cases > 200\n')
 cat('\n\n', '<p>&nbsp;</p>', '\n\n')
 for (i in 1:length(sortedCounties)){
   getImg = paste0('>![img](/output/TX_counties_uptodate/',
