@@ -1,4 +1,4 @@
-# COVID-19: Look At Us Today, See Yourself Tomorrow
+# COVID-19 Time Series: Look At Us Today, See Yourself Tomorrow
 
 >*Look at us today, see yourself tomorrow.*  
 >*- NY, Governor Andrew Cuomo*
