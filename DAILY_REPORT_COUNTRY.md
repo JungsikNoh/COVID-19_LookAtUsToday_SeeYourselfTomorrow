@@ -30,7 +30,7 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/United Kingdom_3plot_combined.png)
+>![img](/output/countries_uptodate/United-Kingdom_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -82,7 +82,7 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Korea, South_3plot_combined.png)
+>![img](/output/countries_uptodate/Korea,-South_3plot_combined.png)
 
  <p>&nbsp;</p> 
 

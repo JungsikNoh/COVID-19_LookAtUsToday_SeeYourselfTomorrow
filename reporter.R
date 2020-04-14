@@ -12,6 +12,23 @@ print(getwd())
 
 head(countryNamePop)
 
+# manual curation
+cname = countryNamePop$Region
+levels(cname)[levels(cname) == 'Korea, South'] <- 'Korea,-South' 
+levels(cname)[levels(cname) == 'United Kingdom'] <- 'United-Kingdom' 
+cnamePop = cbind(cname, countryNamePop[,2:3])
+
+outPath3 = file.path(getwd(), 'output', 'countries_uptodate')
+if (file.exists(file.path(outPath3, 'Korea, South_3plot_combined.png'))) {
+  file.copy(file.path(outPath3, 'Korea, South_3plot_combined.png'), 
+            file.path(outPath3, 'Korea,-South_3plot_combined.png'))
+}
+if (file.exists(file.path(outPath3, 'United Kingdom_3plot_combined.png'))) {
+  file.copy(file.path(outPath3, 'United Kingdom_3plot_combined.png'), 
+            file.path(outPath3, 'United-Kingdom_3plot_combined.png'))
+}
+
+
 repname1 = 'DAILY_REPORT_COUNTRY.md'
 
 sink(file.path(getwd(), repname1))
@@ -22,7 +39,7 @@ cat('# Countries (top 25)\n')
 cat('\n\n', '<p>&nbsp;</p>', '\n\n')
 for (i in 1:nrow(countryNamePop)){
   getImg = paste0('>![img](/output/countries_uptodate/',
-                  countryNamePop$Region[i], '_3plot_combined.png)')
+                  cname[i], '_3plot_combined.png)')
   cat(getImg)
   cat('\n\n', '<p>&nbsp;</p>', '\n\n')
 }
@@ -60,6 +77,22 @@ sink()
 
 head(sortedCounties)
 
+# manual curation
+Ctname = sortedCounties
+Ctname[which(Ctname == "Fort Bend")] <- 'Fort-Bend' 
+Ctname[which(Ctname == "El Paso")] <- 'El-Paso' 
+
+outPath4 = file.path(getwd(), 'output', 'TX_counties_uptodate')
+if (file.exists(file.path(outPath4, 'Fort Bend_3plot_combined.png'))) {
+  file.copy(file.path(outPath4, 'Fort Bend_3plot_combined.png'), 
+            file.path(outPath4, 'Fort-Bend_3plot_combined.png'))
+}
+if (file.exists(file.path(outPath4, 'El Paso_3plot_combined.png'))) {
+  file.copy(file.path(outPath4, 'El Paso_3plot_combined.png'), 
+            file.path(outPath4, 'El-Paso_3plot_combined.png'))
+}
+
+
 repname3 = 'DAILY_REPORT_TX_COUNTY.md'
 
 sink(file.path(getwd(), repname3))
@@ -68,9 +101,9 @@ cat('\n\n', '<p>&nbsp;</p>', '\n\n', '<p>&nbsp;</p>', '\n\n')
 cat(paste0('## ', curDate, ', COVID-19 Time Series', '\n'))
 cat('# TX counties with cumulative confirmed cases > 200\n')
 cat('\n\n', '<p>&nbsp;</p>', '\n\n')
-for (i in 1:length(sortedCounties)){
+for (i in 1:length(Ctname)){
   getImg = paste0('>![img](/output/TX_counties_uptodate/',
-                  sortedCounties[i], '_3plot_combined.png)')
+                  Ctname[i], '_3plot_combined.png)')
   cat(getImg)
   cat('\n\n', '<p>&nbsp;</p>', '\n\n')
 }

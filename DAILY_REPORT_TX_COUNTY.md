@@ -30,7 +30,7 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Fort Bend_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Fort-Bend_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -50,7 +50,7 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/El Paso_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/El-Paso_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
