@@ -38,6 +38,11 @@ For example, daily output plots for the U.S. can be found in [/output/countries/
 2. [States in the U.S.](DAILY_REPORT_STATE.md)
 3. [TX counties with cumulative cases > 200](DAILY_REPORT_TX_COUNTY.md)
 
+A daily report lists three time series plots across countries, states or TX counties. For example, the 3-plot summary for the U.S. is as follows:
+
+![img](/output/countries_uptodate/US_3plot_combined.png)
+
+
 ## Data sources
 
 - The number of confirmed cases for countries are from COVID-19 data repository of Johns Hopkins CSSE (https://github.com/CSSEGISandData/COVID-19). Updated around 7pm CT.
