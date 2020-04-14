@@ -2,6 +2,8 @@
 
 <p>&nbsp;</p>
 
+<p>&nbsp;</p>
+
 ## Daily Report of Confirmed Cases
 # Countries (top 25)  
 
