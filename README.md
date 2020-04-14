@@ -28,7 +28,7 @@ The progression can be well monitored by looking at the time course of daily gro
 
 ## Output
 
-For each region, the pipeline generates 5 time series plots of new cases per-day, daily growth rates, trend of the daily growth rates, time-shifted growth rate curves, and time-shifted new cases per-day in comparison with the curves for Italy and Korea.
+For each region, the pipeline generates five plots for new cases per-day, daily growth rates, trend of the daily growth rates, time-shifted curve of growth rates, and time-shifted curve of new cases in comparison with the curves for Italy and Korea.
 
 For example, daily output plots for the U.S. can be found in [/output/countries/US](/output/countries/US). Up-to-date output for the states in the U.S. can be found in [/output/states_uptodate](/output/states_uptodate).
 
