@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## Daily Report of Confirmed Cases
+## 2020-04-12, COVID-19 Time Series
 # TX counties with cumulative confirmed cases > 200
 
 
