@@ -5,7 +5,10 @@
 
 The COVID-19 pandemic hit our entire planet hard, taking lots of lives. Most of us are under physical distancing to fight the virus together and to flatten the curve. 
 
-To win this extraordinary war, *accurate and quick monitoring* of the infections is fundamental. A pandemic event can be monitored by the curve of cumulative confirmed cases or deaths over time. Observing such curves for COVID-19, we can see that some countries like China, Korea or Italy are at the later stage of the virus spreading, while others might be at the beginning.
+To win this extraordinary war, *accurate and quick monitoring* of the expansion of COVID-19 infection is important. 
+Observing daily increments of confirmed cases over time, we can see that
+
+A pandemic event can be monitored by the curve of cumulative confirmed cases or deaths over time. Observing such curves for COVID-19, we can see that some countries like China, Korea or Italy are at the later stage of the virus spreading, while others might be at the beginning.
 
 Showing the ever-increasing number of new cases every day, New York Governor Andrew Cuomo sent the message on April 1, 2020. A data science pipeline presented here tries to implement exactly what Governor Cuomo said in a quantitative manner. By looking at the preceding pandemic time courses of Italy and Korea, we seek to answer how many new confirmed cases of a country or a region could be in the near future. 
 
