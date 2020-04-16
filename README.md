@@ -27,21 +27,36 @@ To monitor the pandemic progression and project the numbers in the coming weeks,
 
 *This data science pipeline and its COVID-19 data visualization will help us monitor the number of confirmed cases and the growth rates every day.* It provides straightforward visualization to see where we are in view of the past of Italy and Korea. Since the analysis compares population-normalized numbers of daily new cases, it also allows us to compare the sizes of the infection in different countries or regions in the U.S. 
 
+
+## Daily Report of COVID-19 Time Series
+
+1. [Countries](DAILY_REPORT_COUNTRY.md)    
+2. [States in the U.S.](DAILY_REPORT_STATE.md)    
+3. [TX counties with cumulative cases > 200](DAILY_REPORT_TX_COUNTY.md)
+
+A daily report lists three plots of COVID-19 time series across countries, states or TX counties. For example, the three summary plots for the U.S. is as follows:
+
+![img](/output/countries_uptodate/US_3plot_combined.png)
+
+**Plot details**
+
+- (**Left**): Daily new confirmed cases in the U.S., Korea and Italy, after adjusting the population size of Korea and Italy to the one of the U.S. Each time series starts since total confirmed cases became more than 100 before population adjustment.
+- (**Middle**): Trend curves of the daily growth rates of total cases for the U.S., Korea and Italy. The value at each day on the trend curves is the average of 9 daily rates around each day, and the most recent value is the average of recent five daily growth rates.
+- (**Right**): Daily new confirmed cases in the U.S., Korea and Italy, after adjusting the population size of Korea and Italy to the one of the U.S. Here, the three trajectories are shifted in time, so that the daily growth rates of the three countries are close to each other near day = 0. Blue or red dashed lines denote two possible projections for the new cases of the U.S. acquired from the growth rates of Korea or Italy, respectively.
+
+
+
+## Links
+
+- Please find detailed explanation for all output plots and data visualization at [an article at medium.com](https://medium.com/@nohjssunny/covid-19-look-at-us-today-see-yourself-tomorrow-965201ff61a4).
+
+
+
 ## Output
 
 For each region, the pipeline generates five plots for new cases per-day, daily growth rates, trend of the daily growth rates, time-shifted curve of growth rates, and time-shifted curve of new cases in comparison with the curves for Italy and Korea.
 
 For example, daily output plots for the U.S. can be found in [/output/countries/US](/output/countries/US). Up-to-date output for the states in the U.S. can be found in [/output/states_uptodate](/output/states_uptodate).
-
-## Daily Report of COVID-19 Time Series
-
-1. [Countries](DAILY_REPORT_COUNTRY.md)
-2. [States in the U.S.](DAILY_REPORT_STATE.md)
-3. [TX counties with cumulative cases > 200](DAILY_REPORT_TX_COUNTY.md)
-
-A daily report lists three time series plots across countries, states or TX counties. For example, the 3-plot summary for the U.S. is as follows:
-
-![img](/output/countries_uptodate/US_3plot_combined.png)
 
 
 ## Data sources
