@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-04-18, COVID-19 Time Series
+## 2020-04-19, COVID-19 Time Series
 # Countries (top 25)
 
 
@@ -34,19 +34,15 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/China_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
 >![img](/output/countries_uptodate/Turkey_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Iran_3plot_combined.png)
+>![img](/output/countries_uptodate/China_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Belgium_3plot_combined.png)
+>![img](/output/countries_uptodate/Iran_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -55,6 +51,10 @@
  <p>&nbsp;</p> 
 
 >![img](/output/countries_uptodate/Brazil_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
+>![img](/output/countries_uptodate/Belgium_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -78,15 +78,15 @@
 
  <p>&nbsp;</p> 
 
+>![img](/output/countries_uptodate/Peru_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
 >![img](/output/countries_uptodate/Ireland_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
 >![img](/output/countries_uptodate/Austria_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/countries_uptodate/Peru_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -98,11 +98,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Korea,-South_3plot_combined.png)
+>![img](/output/countries_uptodate/Japan_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Japan_3plot_combined.png)
+>![img](/output/countries_uptodate/Korea,-South_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
