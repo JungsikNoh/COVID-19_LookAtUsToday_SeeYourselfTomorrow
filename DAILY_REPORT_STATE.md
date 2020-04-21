@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-04-19, COVID-19 Time Series
+## 2020-04-20, COVID-19 Time Series
 # States in the U.S.
 
 
@@ -46,6 +46,10 @@
 
  <p>&nbsp;</p> 
 
+>![img](/output/states_uptodate/CT_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
 >![img](/output/states_uptodate/TX_3plot_combined.png)
 
  <p>&nbsp;</p> 
@@ -54,19 +58,15 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/CT_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
 >![img](/output/states_uptodate/MD_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/WA_3plot_combined.png)
+>![img](/output/states_uptodate/OH_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/OH_3plot_combined.png)
+>![img](/output/states_uptodate/WA_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -94,6 +94,10 @@
 
  <p>&nbsp;</p> 
 
+>![img](/output/states_uptodate/RI_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
 >![img](/output/states_uptodate/AZ_3plot_combined.png)
 
  <p>&nbsp;</p> 
@@ -102,11 +106,7 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/RI_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/states_uptodate/SC_3plot_combined.png)
+>![img](/output/states_uptodate/MS_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -114,7 +114,7 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/MS_3plot_combined.png)
+>![img](/output/states_uptodate/SC_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -130,15 +130,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/DC_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
 >![img](/output/states_uptodate/KY_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/OK_3plot_combined.png)
+>![img](/output/states_uptodate/DC_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -146,11 +142,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/MN_3plot_combined.png)
+>![img](/output/states_uptodate/OK_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/OR_3plot_combined.png)
+>![img](/output/states_uptodate/MN_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -158,7 +154,7 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/NM_3plot_combined.png)
+>![img](/output/states_uptodate/OR_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -166,7 +162,7 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/ID_3plot_combined.png)
+>![img](/output/states_uptodate/NM_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -174,7 +170,7 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/NH_3plot_combined.png)
+>![img](/output/states_uptodate/ID_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -182,11 +178,15 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/ME_3plot_combined.png)
+>![img](/output/states_uptodate/NH_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
 >![img](/output/states_uptodate/WV_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
+>![img](/output/states_uptodate/ME_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
