@@ -17,6 +17,7 @@ head(countryNamePop)
 cname = countryNamePop$Region
 levels(cname)[levels(cname) == 'Korea, South'] <- 'Korea,-South' 
 levels(cname)[levels(cname) == 'United Kingdom'] <- 'United-Kingdom' 
+levels(cname)[levels(cname) == 'Saudi Arabia'] <- 'Saudi-Arabia' 
 cnamePop = cbind(cname, countryNamePop[,2:3])
 
 outPath3 = file.path(getwd(), 'output', 'countries_uptodate')
