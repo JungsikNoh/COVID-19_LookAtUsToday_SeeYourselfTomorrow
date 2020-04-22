@@ -88,6 +88,9 @@ jhudatL2 = jhudatL[scases$ix, ]
 print(jhudatL2[1:numCntr, ])
 namesTop20 = as.character(jhudatL2$Country.Region[1:numCntr])
 
+# Korea is not in top 25 (04/21 revised)
+namesTop20 = c(namesTop20, 'Korea, South')
+
 # name curation -.-;; good job jhu
 namesTop20_1 = namesTop20
 namesTop20_1[(namesTop20 == 'US')] = 'United States of America'
@@ -95,15 +98,17 @@ namesTop20_1[(namesTop20 == 'Korea, South')] = 'Republic of Korea'
 namesTop20_1[(namesTop20 == 'Iran')] = 'Iran (Islamic Republic of)'
 namesTop20_1[(namesTop20 == 'Russia')] = 'Russian Federation'
 
+
+
 # fetch pop
-countryNamePop = data.frame(Region = namesTop20, namesTop20_1, pop2019 = 1:numCntr)
-for (i in 1:numCntr){
+countryNamePop = data.frame(Region = namesTop20, namesTop20_1, pop2019 = 1:length(namesTop20))
+for (i in 1:nrow(countryNamePop)){
   pop0 = UNpop2019Dat$X2019[which(UNpop2019Dat$Region == namesTop20_1[i])]
   countryNamePop$pop2019[i] = pop0
 }
 
 # run countries
-numState = nrow(countryNamePop)
+numState = numCntr
 myCaptnLst_country = list()
 for (i in 1:numState){
   stname = as.character(countryNamePop$Region[i])
