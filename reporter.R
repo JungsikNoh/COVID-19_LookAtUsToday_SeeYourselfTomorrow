@@ -29,6 +29,11 @@ if (file.exists(file.path(outPath3, 'United Kingdom_3plot_combined.png'))) {
   file.copy(file.path(outPath3, 'United Kingdom_3plot_combined.png'), 
             file.path(outPath3, 'United-Kingdom_3plot_combined.png'), overwrite = T)
 }
+if (file.exists(file.path(outPath3, 'Saudi Arabia_3plot_combined.png'))) {
+  file.copy(file.path(outPath3, 'Saudi Arabia_3plot_combined.png'), 
+            file.path(outPath3, 'Saudi-Arabia_3plot_combined.png'), overwrite = T)
+}
+
 
 
 repname1 = 'DAILY_REPORT_COUNTRY.md'
