@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-04-23, COVID-19 Time Series
+## 2020-04-24, COVID-19 Time Series
 # States in the U.S.
 
 
@@ -22,11 +22,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/CA_3plot_combined.png)
+>![img](/output/states_uptodate/IL_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/IL_3plot_combined.png)
+>![img](/output/states_uptodate/CA_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -90,19 +90,19 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/MO_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
 >![img](/output/states_uptodate/RI_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/AL_3plot_combined.png)
+>![img](/output/states_uptodate/MO_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
 >![img](/output/states_uptodate/AZ_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
+>![img](/output/states_uptodate/AL_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -118,11 +118,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/NV_3plot_combined.png)
+>![img](/output/states_uptodate/IA_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/IA_3plot_combined.png)
+>![img](/output/states_uptodate/NV_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -130,11 +130,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/KY_3plot_combined.png)
+>![img](/output/states_uptodate/DC_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/DC_3plot_combined.png)
+>![img](/output/states_uptodate/KY_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -142,11 +142,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/OK_3plot_combined.png)
+>![img](/output/states_uptodate/MN_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/MN_3plot_combined.png)
+>![img](/output/states_uptodate/OK_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -166,11 +166,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/SD_3plot_combined.png)
+>![img](/output/states_uptodate/NE_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/NE_3plot_combined.png)
+>![img](/output/states_uptodate/SD_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -206,11 +206,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/AK_3plot_combined.png)
+>![img](/output/states_uptodate/WY_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/WY_3plot_combined.png)
+>![img](/output/states_uptodate/AK_3plot_combined.png)
 
  <p>&nbsp;</p> 
 

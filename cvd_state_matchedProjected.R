@@ -495,7 +495,7 @@ cvd_state_matchedProjected = function(curDate, stname, jhudat, covidtrackingDat,
   
   # shift (anchor X to KO) since-dataset to dayFrToday-dataset
   
-  lenHeadToadd = max(ITtoKO, XtoKO)
+  lenHeadToadd = max(ITtoKO, XtoKO, 0)
   headNA = matrix(NA, lenHeadToadd, dim(datf3_prj3)[2])
   colnames(headNA) = colnames(datf3_prj3)
   datf3_prj3_algn0 = rbind(headNA, datf3_prj3)
