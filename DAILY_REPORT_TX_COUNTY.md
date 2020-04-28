@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-04-26, COVID-19 Time Series
+## 2020-04-27, COVID-19 Time Series
 # TX counties with cumulative confirmed cases > 200
 
 
@@ -62,6 +62,10 @@
 
  <p>&nbsp;</p> 
 
+>![img](/output/TX_counties_uptodate/Potter_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
 >![img](/output/TX_counties_uptodate/Cameron_3plot_combined.png)
 
  <p>&nbsp;</p> 
@@ -70,15 +74,7 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Potter_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
 >![img](/output/TX_counties_uptodate/Hidalgo_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/TX_counties_uptodate/Jefferson_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -87,6 +83,10 @@
  <p>&nbsp;</p> 
 
 >![img](/output/TX_counties_uptodate/Moore_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
+>![img](/output/TX_counties_uptodate/Jefferson_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
