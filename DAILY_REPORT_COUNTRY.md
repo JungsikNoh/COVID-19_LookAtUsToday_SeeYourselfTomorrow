@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-05-02, COVID-19 Time Series
+## 2020-05-03, COVID-19 Time Series
 # Countries (top 25)
 
 
@@ -34,11 +34,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Turkey_3plot_combined.png)
+>![img](/output/countries_uptodate/Russia_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Russia_3plot_combined.png)
+>![img](/output/countries_uptodate/Turkey_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -66,11 +66,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Netherlands_3plot_combined.png)
+>![img](/output/countries_uptodate/India_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/India_3plot_combined.png)
+>![img](/output/countries_uptodate/Netherlands_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
