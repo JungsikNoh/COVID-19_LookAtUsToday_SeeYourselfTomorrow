@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-05-05, COVID-19 Time Series
+## 2020-05-06, COVID-19 Time Series
 # States in the U.S.
 
 
@@ -50,11 +50,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/LA_3plot_combined.png)
+>![img](/output/states_uptodate/GA_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/GA_3plot_combined.png)
+>![img](/output/states_uptodate/LA_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -114,11 +114,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/MS_3plot_combined.png)
+>![img](/output/states_uptodate/MN_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/MN_3plot_combined.png)
+>![img](/output/states_uptodate/MS_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -130,15 +130,7 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/NV_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/states_uptodate/KS_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/states_uptodate/UT_3plot_combined.png)
+>![img](/output/states_uptodate/KY_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -146,11 +138,19 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/DC_3plot_combined.png)
+>![img](/output/states_uptodate/KS_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/KY_3plot_combined.png)
+>![img](/output/states_uptodate/NV_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
+>![img](/output/states_uptodate/UT_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
+>![img](/output/states_uptodate/DC_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -186,11 +186,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/WV_3plot_combined.png)
+>![img](/output/states_uptodate/ME_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/ME_3plot_combined.png)
+>![img](/output/states_uptodate/WV_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
