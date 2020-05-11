@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-05-09, COVID-19 Time Series
+## 2020-05-10, COVID-19 Time Series
 # Countries (top 25)
 
 
@@ -18,11 +18,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Italy_3plot_combined.png)
+>![img](/output/countries_uptodate/United-Kingdom_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/United-Kingdom_3plot_combined.png)
+>![img](/output/countries_uptodate/Italy_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -82,6 +82,10 @@
 
  <p>&nbsp;</p> 
 
+>![img](/output/countries_uptodate/Pakistan_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
 >![img](/output/countries_uptodate/Switzerland_3plot_combined.png)
 
  <p>&nbsp;</p> 
@@ -90,7 +94,7 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Pakistan_3plot_combined.png)
+>![img](/output/countries_uptodate/Chile_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -98,15 +102,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Chile_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
 >![img](/output/countries_uptodate/Sweden_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Ireland_3plot_combined.png)
+>![img](/output/countries_uptodate/Singapore_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
