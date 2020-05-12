@@ -4,8 +4,8 @@
 
  <p>&nbsp;</p> 
 
-## 2020-05-10, COVID-19 Time Series
-# TX counties with cumulative confirmed cases > 200
+## 2020-05-11, COVID-19 Time Series
+# TX counties with cumulative confirmed cases > 600
 
 
  <p>&nbsp;</p> 
@@ -59,70 +59,6 @@
  <p>&nbsp;</p> 
 
 >![img](/output/TX_counties_uptodate/Brazoria_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/TX_counties_uptodate/Lubbock_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/TX_counties_uptodate/Moore_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/TX_counties_uptodate/Cameron_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/TX_counties_uptodate/Webb_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/TX_counties_uptodate/Hidalgo_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/TX_counties_uptodate/Taylor_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/TX_counties_uptodate/Williamson_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/TX_counties_uptodate/Jefferson_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/TX_counties_uptodate/Randall_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/TX_counties_uptodate/Walker_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/TX_counties_uptodate/Brazos_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/TX_counties_uptodate/Bell_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/TX_counties_uptodate/Coryell_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/TX_counties_uptodate/Nacogdoches_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/TX_counties_uptodate/Hays_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/TX_counties_uptodate/Ellis_3plot_combined.png)
 
  <p>&nbsp;</p> 
 

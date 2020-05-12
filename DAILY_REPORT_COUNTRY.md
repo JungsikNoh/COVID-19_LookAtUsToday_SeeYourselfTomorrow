@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-05-10, COVID-19 Time Series
+## 2020-05-11, COVID-19 Time Series
 # Countries (top 25)
 
 
@@ -22,11 +22,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Italy_3plot_combined.png)
+>![img](/output/countries_uptodate/Russia_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Russia_3plot_combined.png)
+>![img](/output/countries_uptodate/Italy_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -58,11 +58,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Peru_3plot_combined.png)
+>![img](/output/countries_uptodate/India_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/India_3plot_combined.png)
+>![img](/output/countries_uptodate/Peru_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -90,11 +90,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Ecuador_3plot_combined.png)
+>![img](/output/countries_uptodate/Chile_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Chile_3plot_combined.png)
+>![img](/output/countries_uptodate/Ecuador_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -106,7 +106,7 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Singapore_3plot_combined.png)
+>![img](/output/countries_uptodate/Belarus_3plot_combined.png)
 
  <p>&nbsp;</p> 
 

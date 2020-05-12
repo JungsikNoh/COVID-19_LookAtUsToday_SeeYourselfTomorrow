@@ -8,7 +8,7 @@
 ## source functions 
 t1 = Sys.time()
 #curDate = Sys.Date(); print(curDate)
-curDate = '2020-05-10'
+curDate = '2020-05-11'
 
 #setwd('C:/githubClone/COVID-19_LookAtUsToday_SeeYourselfTomorrow')
 getwd()
@@ -75,7 +75,7 @@ mvWin = 3
 ########################
 
 totalCases_threshold_toSetStart = 50
-totCases_thrshld_toSelectCnt = 200
+totCases_thrshld_toSelectCnt = 600
 
 ## fetch TX county data from nytimes
 url_nutimesCounty = 

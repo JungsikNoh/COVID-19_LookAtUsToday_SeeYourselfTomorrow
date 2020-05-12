@@ -106,7 +106,7 @@ sink(file.path(getwd(), repname3))
 cat('<img align="right"  height="100" src="/doc/utsw-master-logo-cmyk+BI.png">')
 cat('\n\n', '<p>&nbsp;</p>', '\n\n', '<p>&nbsp;</p>', '\n\n')
 cat(paste0('## ', curDate, ', COVID-19 Time Series', '\n'))
-cat('# TX counties with cumulative confirmed cases > 200\n')
+cat('# TX counties with cumulative confirmed cases > 600\n')
 cat('\n\n', '<p>&nbsp;</p>', '\n\n')
 for (i in 1:length(Ctname)){
   getImg = paste0('>![img](/output/TX_counties_uptodate/',
