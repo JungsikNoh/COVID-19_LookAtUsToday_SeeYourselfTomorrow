@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-05-17, COVID-19 Time Series
+## 2020-05-18, COVID-19 Time Series
 # Countries (top 25)
 
 
@@ -18,11 +18,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/United-Kingdom_3plot_combined.png)
+>![img](/output/countries_uptodate/Brazil_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Brazil_3plot_combined.png)
+>![img](/output/countries_uptodate/United-Kingdom_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -66,11 +66,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Belgium_3plot_combined.png)
+>![img](/output/countries_uptodate/Saudi-Arabia_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Saudi-Arabia_3plot_combined.png)
+>![img](/output/countries_uptodate/Belgium_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -78,11 +78,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Netherlands_3plot_combined.png)
+>![img](/output/countries_uptodate/Chile_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Chile_3plot_combined.png)
+>![img](/output/countries_uptodate/Netherlands_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -90,11 +90,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Ecuador_3plot_combined.png)
+>![img](/output/countries_uptodate/Qatar_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Qatar_3plot_combined.png)
+>![img](/output/countries_uptodate/Ecuador_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -102,11 +102,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Sweden_3plot_combined.png)
+>![img](/output/countries_uptodate/Belarus_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Belarus_3plot_combined.png)
+>![img](/output/countries_uptodate/Sweden_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
