@@ -464,15 +464,22 @@ cvd_state_matchedProjected = function(curDate, stname, jhudat, covidtrackingDat,
   currTot = datf3_prj2[dLast[3], 4]
   prjTotKO = cbind(rep(NA, maxPrjPrd + 1))
   prjTotKO[1] = currTot
-  for (i in 1:maxPrjPrd){
-    prjTotKO[i+1] = prjTotKO[i] * (1 + prjGRfromDatf7$growth.Korea[i]/100)
+  # 05/20 debugging 
+  if (maxPrjPrd >= 1){
+    for (i in 1:maxPrjPrd){
+      prjTotKO[i+1] = prjTotKO[i] * (1 + prjGRfromDatf7$growth.Korea[i]/100)
+    }
   }
+ 
   
   prjTotIT = cbind(rep(NA, maxPrjPrd + 1))
   prjTotIT[1] = currTot
-  for (i in 1:maxPrjPrd){
-    prjTotIT[i+1] = prjTotIT[i] * (1 + prjGRfromDatf7$growth.Italy[i]/100)
+  if (maxPrjPrd >= 1){
+    for (i in 1:maxPrjPrd){
+      prjTotIT[i+1] = prjTotIT[i] * (1 + prjGRfromDatf7$growth.Italy[i]/100)
+    }
   }
+  
   
   prjKO2 = c(rep(NA, dLast[3] - 1), prjTotKO)
   prjIT2 = c(rep(NA, dLast[3] - 1), prjTotIT)

@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-05-18, COVID-19 Time Series
+## 2020-05-19, COVID-19 Time Series
 # Countries (top 25)
 
 
@@ -98,15 +98,15 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Switzerland_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
 >![img](/output/countries_uptodate/Belarus_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
 >![img](/output/countries_uptodate/Sweden_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
+>![img](/output/countries_uptodate/Switzerland_3plot_combined.png)
 
  <p>&nbsp;</p> 
 

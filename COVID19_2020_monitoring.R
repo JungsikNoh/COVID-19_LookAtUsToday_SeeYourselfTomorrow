@@ -12,7 +12,7 @@
 ## source functions 
 t1 = Sys.time()
 #curDate = Sys.Date(); print(curDate)
-curDate = '2020-05-18'
+curDate = '2020-05-19'
 
 #setwd('C:/githubClone/COVID-19_LookAtUsToday_SeeYourselfTomorrow')
 print(getwd())
@@ -134,7 +134,7 @@ print(sortedStates)
 numState = length(sortedStates)
 StateAbb = sortedStates
 myCaptnLst = list()
-for (i in 1:numState){
+for (i in 20:numState){
   tmp = cvd_state_matchedProjected(curDate, StateAbb[i], jhudat, covidtrackingDat, 
                                     populationData, stpopulationData)
   myCaptnLst[[i]] = tmp
