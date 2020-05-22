@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-05-20, COVID-19 Time Series
+## 2020-05-21, COVID-19 Time Series
 # States in the U.S.
 
 
@@ -170,11 +170,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/OR_3plot_combined.png)
+>![img](/output/states_uptodate/NH_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/NH_3plot_combined.png)
+>![img](/output/states_uptodate/OR_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
