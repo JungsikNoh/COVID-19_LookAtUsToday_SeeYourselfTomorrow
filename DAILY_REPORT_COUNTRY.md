@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-05-21, COVID-19 Time Series
+## 2020-05-22, COVID-19 Time Series
 # Countries (top 25)
 
 
@@ -14,11 +14,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Russia_3plot_combined.png)
+>![img](/output/countries_uptodate/Brazil_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Brazil_3plot_combined.png)
+>![img](/output/countries_uptodate/Russia_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -34,11 +34,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/France_3plot_combined.png)
+>![img](/output/countries_uptodate/Germany_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Germany_3plot_combined.png)
+>![img](/output/countries_uptodate/France_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
