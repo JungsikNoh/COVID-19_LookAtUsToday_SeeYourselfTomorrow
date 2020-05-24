@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-05-22, COVID-19 Time Series
+## 2020-05-23, COVID-19 Time Series
 # Countries (top 25)
 
 
@@ -58,11 +58,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/China_3plot_combined.png)
+>![img](/output/countries_uptodate/Canada_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Canada_3plot_combined.png)
+>![img](/output/countries_uptodate/China_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -106,7 +106,7 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Switzerland_3plot_combined.png)
+>![img](/output/countries_uptodate/Bangladesh_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
