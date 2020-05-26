@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-05-24, COVID-19 Time Series
+## 2020-05-25, COVID-19 Time Series
 # Countries (top 25)
 
 
@@ -86,11 +86,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Netherlands_3plot_combined.png)
+>![img](/output/countries_uptodate/Qatar_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Qatar_3plot_combined.png)
+>![img](/output/countries_uptodate/Netherlands_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
