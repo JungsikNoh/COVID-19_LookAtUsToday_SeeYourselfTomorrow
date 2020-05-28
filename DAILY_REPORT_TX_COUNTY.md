@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-05-26, COVID-19 Time Series
+## 2020-05-27, COVID-19 Time Series
 # TX counties with cumulative confirmed cases > 600
 
 
@@ -59,6 +59,10 @@
  <p>&nbsp;</p> 
 
 >![img](/output/TX_counties_uptodate/Galveston_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
+>![img](/output/TX_counties_uptodate/Walker_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
