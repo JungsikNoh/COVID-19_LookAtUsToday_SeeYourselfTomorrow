@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-05-31, COVID-19 Time Series
+## 2020-06-01, COVID-19 Time Series
 # TX counties with cumulative confirmed cases > 600
 
 
