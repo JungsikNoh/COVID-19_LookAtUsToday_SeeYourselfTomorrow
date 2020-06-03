@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-06-01, COVID-19 Time Series
+## 2020-06-02, COVID-19 Time Series
 # States in the U.S.
 
 
@@ -130,15 +130,15 @@
 
  <p>&nbsp;</p> 
 
+>![img](/output/states_uptodate/UT_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
 >![img](/output/states_uptodate/KY_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
 >![img](/output/states_uptodate/KS_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/states_uptodate/UT_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
