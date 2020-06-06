@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-06-04, COVID-19 Time Series
+## 2020-06-05, COVID-19 Time Series
 # Countries (top 25)
 
 
@@ -30,11 +30,15 @@
 
  <p>&nbsp;</p> 
 
+>![img](/output/countries_uptodate/India_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
 >![img](/output/countries_uptodate/Italy_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/India_3plot_combined.png)
+>![img](/output/countries_uptodate/Peru_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -43,10 +47,6 @@
  <p>&nbsp;</p> 
 
 >![img](/output/countries_uptodate/Germany_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/countries_uptodate/Peru_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -86,11 +86,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Belgium_3plot_combined.png)
+>![img](/output/countries_uptodate/Bangladesh_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Bangladesh_3plot_combined.png)
+>![img](/output/countries_uptodate/Belgium_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -102,11 +102,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Sweden_3plot_combined.png)
+>![img](/output/countries_uptodate/South Africa_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Ecuador_3plot_combined.png)
+>![img](/output/countries_uptodate/Sweden_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
