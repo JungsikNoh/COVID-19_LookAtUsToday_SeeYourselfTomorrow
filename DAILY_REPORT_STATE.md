@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-06-09, COVID-19 Time Series
+## 2020-06-10, COVID-19 Time Series
 # States in the U.S.
 
 
@@ -78,11 +78,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/MN_3plot_combined.png)
+>![img](/output/states_uptodate/AZ_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/AZ_3plot_combined.png)
+>![img](/output/states_uptodate/MN_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -118,11 +118,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/RI_3plot_combined.png)
+>![img](/output/states_uptodate/SC_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/SC_3plot_combined.png)
+>![img](/output/states_uptodate/RI_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
