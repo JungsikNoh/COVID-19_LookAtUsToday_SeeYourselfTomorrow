@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-06-12, COVID-19 Time Series
+## 2020-06-13, COVID-19 Time Series
 # States in the U.S.
 
 
