@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-06-15, COVID-19 Time Series
+## 2020-06-16, COVID-19 Time Series
 # TX counties with cumulative confirmed cases > 600
 
 
@@ -22,11 +22,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Travis_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Bexar_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Bexar_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Travis_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -54,6 +54,10 @@
 
  <p>&nbsp;</p> 
 
+>![img](/output/TX_counties_uptodate/Brazoria_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
 >![img](/output/TX_counties_uptodate/Galveston_3plot_combined.png)
 
  <p>&nbsp;</p> 
@@ -66,7 +70,7 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Brazoria_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Hidalgo_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -74,7 +78,7 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Hidalgo_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Hays_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -82,7 +86,7 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Hays_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Anderson_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -90,11 +94,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Moore_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Brazos_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Brazos_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Moore_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -110,11 +114,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Jones_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Bell_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Bell_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Jones_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
