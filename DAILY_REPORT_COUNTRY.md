@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-06-16, COVID-19 Time Series
+## 2020-06-17, COVID-19 Time Series
 # Countries (top 25)
 
 
@@ -34,11 +34,15 @@
 
  <p>&nbsp;</p> 
 
+>![img](/output/countries_uptodate/Peru_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
 >![img](/output/countries_uptodate/Italy_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Peru_3plot_combined.png)
+>![img](/output/countries_uptodate/Chile_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -54,19 +58,15 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Chile_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
 >![img](/output/countries_uptodate/Turkey_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Mexico_3plot_combined.png)
+>![img](/output/countries_uptodate/Pakistan_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Pakistan_3plot_combined.png)
+>![img](/output/countries_uptodate/Mexico_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -102,11 +102,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Sweden_3plot_combined.png)
+>![img](/output/countries_uptodate/Colombia_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Colombia_3plot_combined.png)
+>![img](/output/countries_uptodate/Sweden_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
