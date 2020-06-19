@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-06-17, COVID-19 Time Series
+## 2020-06-18, COVID-19 Time Series
 # States in the U.S.
 
 
@@ -70,15 +70,15 @@
 
  <p>&nbsp;</p> 
 
+>![img](/output/states_uptodate/AZ_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
 >![img](/output/states_uptodate/OH_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
 >![img](/output/states_uptodate/IN_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/states_uptodate/AZ_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -110,11 +110,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/MS_3plot_combined.png)
+>![img](/output/states_uptodate/SC_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/SC_3plot_combined.png)
+>![img](/output/states_uptodate/MS_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -194,11 +194,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/VT_3plot_combined.png)
+>![img](/output/states_uptodate/WY_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/WY_3plot_combined.png)
+>![img](/output/states_uptodate/VT_3plot_combined.png)
 
  <p>&nbsp;</p> 
 

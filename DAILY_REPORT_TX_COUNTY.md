@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-06-17, COVID-19 Time Series
+## 2020-06-18, COVID-19 Time Series
 # TX counties with cumulative confirmed cases > 600
 
 
@@ -66,6 +66,10 @@
 
  <p>&nbsp;</p> 
 
+>![img](/output/TX_counties_uptodate/Hays_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
 >![img](/output/TX_counties_uptodate/Hidalgo_3plot_combined.png)
 
  <p>&nbsp;</p> 
@@ -74,19 +78,15 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Hays_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
 >![img](/output/TX_counties_uptodate/Cameron_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Williamson_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Lubbock_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Lubbock_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Williamson_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -102,19 +102,19 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Randall_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
 >![img](/output/TX_counties_uptodate/Webb_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Titus_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Randall_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
 >![img](/output/TX_counties_uptodate/Bell_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
+>![img](/output/TX_counties_uptodate/Titus_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
