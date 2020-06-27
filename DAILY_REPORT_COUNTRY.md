@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-06-25, COVID-19 Time Series
+## 2020-06-26, COVID-19 Time Series
 # Countries (top 25)
 
 
@@ -58,11 +58,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Germany_3plot_combined.png)
+>![img](/output/countries_uptodate/Turkey_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Turkey_3plot_combined.png)
+>![img](/output/countries_uptodate/Germany_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
