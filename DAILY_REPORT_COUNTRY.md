@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-06-28, COVID-19 Time Series
+## 2020-06-29, COVID-19 Time Series
 # Countries (top 25)
 
 
@@ -98,15 +98,15 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Egypt_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
 >![img](/output/countries_uptodate/Sweden_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Belarus_3plot_combined.png)
+>![img](/output/countries_uptodate/Egypt_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
+>![img](/output/countries_uptodate/Argentina_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
