@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-06-30, COVID-19 Time Series
+## 2020-07-01, COVID-19 Time Series
 # Countries (top 25)
 
 
@@ -46,11 +46,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Iran_3plot_combined.png)
+>![img](/output/countries_uptodate/Mexico_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Mexico_3plot_combined.png)
+>![img](/output/countries_uptodate/Iran_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -86,11 +86,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Qatar_3plot_combined.png)
+>![img](/output/countries_uptodate/Colombia_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Colombia_3plot_combined.png)
+>![img](/output/countries_uptodate/Qatar_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -98,11 +98,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Sweden_3plot_combined.png)
+>![img](/output/countries_uptodate/Egypt_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Egypt_3plot_combined.png)
+>![img](/output/countries_uptodate/Sweden_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
