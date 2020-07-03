@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-07-01, COVID-19 Time Series
+## 2020-07-02, COVID-19 Time Series
 # Countries (top 25)
 
 
@@ -26,15 +26,15 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/United-Kingdom_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
 >![img](/output/countries_uptodate/Peru_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
 >![img](/output/countries_uptodate/Chile_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
+>![img](/output/countries_uptodate/United-Kingdom_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -62,15 +62,15 @@
 
  <p>&nbsp;</p> 
 
+>![img](/output/countries_uptodate/Saudi-Arabia_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
 >![img](/output/countries_uptodate/Germany_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
 >![img](/output/countries_uptodate/France_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/countries_uptodate/Saudi-Arabia_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
