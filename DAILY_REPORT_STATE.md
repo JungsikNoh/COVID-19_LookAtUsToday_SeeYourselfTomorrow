@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-07-03, COVID-19 Time Series
+## 2020-07-04, COVID-19 Time Series
 # States in the U.S.
 
 
@@ -86,11 +86,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/AL_3plot_combined.png)
+>![img](/output/states_uptodate/SC_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/SC_3plot_combined.png)
+>![img](/output/states_uptodate/AL_3plot_combined.png)
 
  <p>&nbsp;</p> 
 

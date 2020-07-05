@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-07-03, COVID-19 Time Series
+## 2020-07-04, COVID-19 Time Series
 # TX counties with cumulative confirmed cases > 600
 
 
@@ -46,11 +46,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Collin_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Nueces_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Nueces_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Collin_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -70,7 +70,7 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Lubbock_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Jefferson_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -78,11 +78,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Williamson_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Lubbock_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Montgomery_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Williamson_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -90,7 +90,7 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Jefferson_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Montgomery_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -118,6 +118,10 @@
 
  <p>&nbsp;</p> 
 
+>![img](/output/TX_counties_uptodate/Victoria_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
 >![img](/output/TX_counties_uptodate/Ellis_3plot_combined.png)
 
  <p>&nbsp;</p> 
@@ -134,11 +138,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Victoria_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Titus_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Titus_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Guadalupe_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -147,10 +151,6 @@
  <p>&nbsp;</p> 
 
 >![img](/output/TX_counties_uptodate/Smith_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/TX_counties_uptodate/Guadalupe_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
