@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-07-05, COVID-19 Time Series
+## 2020-07-06, COVID-19 Time Series
 # TX counties with cumulative confirmed cases > 600
 
 
@@ -38,11 +38,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Fort-Bend_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Galveston_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Galveston_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Fort-Bend_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -62,7 +62,19 @@
 
  <p>&nbsp;</p> 
 
+>![img](/output/TX_counties_uptodate/Williamson_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
 >![img](/output/TX_counties_uptodate/Potter_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
+>![img](/output/TX_counties_uptodate/Lubbock_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
+>![img](/output/TX_counties_uptodate/Brazoria_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -74,23 +86,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Brazoria_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/TX_counties_uptodate/Lubbock_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Montgomery_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
 >![img](/output/TX_counties_uptodate/Brazos_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/TX_counties_uptodate/Williamson_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/TX_counties_uptodate/Montgomery_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -114,11 +114,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Anderson_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Victoria_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Victoria_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Anderson_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -126,11 +126,15 @@
 
  <p>&nbsp;</p> 
 
+>![img](/output/TX_counties_uptodate/Randall_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
 >![img](/output/TX_counties_uptodate/Starr_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Randall_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Midland_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -142,15 +146,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Titus_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
 >![img](/output/TX_counties_uptodate/Guadalupe_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Midland_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Titus_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -162,7 +162,15 @@
 
  <p>&nbsp;</p> 
 
+>![img](/output/TX_counties_uptodate/Taylor_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
 >![img](/output/TX_counties_uptodate/Grayson_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
+>![img](/output/TX_counties_uptodate/Johnson_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
