@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-07-07, COVID-19 Time Series
+## 2020-07-08, COVID-19 Time Series
 # TX counties with cumulative confirmed cases > 600
 
 
@@ -70,7 +70,7 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Potter_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Cameron_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -82,7 +82,7 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Cameron_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Potter_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -94,7 +94,7 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Walker_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/McLennan_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -102,7 +102,7 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/McLennan_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Walker_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -114,19 +114,19 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Victoria_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
 >![img](/output/TX_counties_uptodate/Ellis_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Anderson_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Victoria_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
 >![img](/output/TX_counties_uptodate/Smith_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
+>![img](/output/TX_counties_uptodate/Anderson_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -162,6 +162,10 @@
 
  <p>&nbsp;</p> 
 
+>![img](/output/TX_counties_uptodate/Johnson_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
 >![img](/output/TX_counties_uptodate/Taylor_3plot_combined.png)
 
  <p>&nbsp;</p> 
@@ -170,7 +174,7 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Hunt_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Gregg_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -178,7 +182,15 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Johnson_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Bastrop_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
+>![img](/output/TX_counties_uptodate/Grimes_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
+>![img](/output/TX_counties_uptodate/Hunt_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
