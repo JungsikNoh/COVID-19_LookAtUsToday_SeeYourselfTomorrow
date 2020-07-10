@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-07-08, COVID-19 Time Series
+## 2020-07-09, COVID-19 Time Series
 # TX counties with cumulative confirmed cases > 600
 
 
@@ -114,7 +114,7 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Ellis_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Anderson_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -122,11 +122,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Smith_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Ellis_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Anderson_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Smith_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -150,10 +150,6 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Moore_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
 >![img](/output/TX_counties_uptodate/Guadalupe_3plot_combined.png)
 
  <p>&nbsp;</p> 
@@ -162,7 +158,15 @@
 
  <p>&nbsp;</p> 
 
+>![img](/output/TX_counties_uptodate/Moore_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
 >![img](/output/TX_counties_uptodate/Johnson_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
+>![img](/output/TX_counties_uptodate/Gregg_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -174,11 +178,15 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Gregg_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Angelina_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Angelina_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Maverick_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
+>![img](/output/TX_counties_uptodate/Hale_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -191,6 +199,10 @@
  <p>&nbsp;</p> 
 
 >![img](/output/TX_counties_uptodate/Hunt_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
+>![img](/output/TX_counties_uptodate/Tom Green_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
