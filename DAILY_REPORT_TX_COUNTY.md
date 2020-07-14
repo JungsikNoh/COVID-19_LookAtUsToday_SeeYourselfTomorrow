@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-07-12, COVID-19 Time Series
+## 2020-07-13, COVID-19 Time Series
 # TX counties with cumulative confirmed cases > 600
 
 
@@ -54,11 +54,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Denton_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Cameron_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Cameron_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Denton_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -74,15 +74,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Jefferson_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
 >![img](/output/TX_counties_uptodate/Brazoria_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Potter_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Jefferson_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -91,6 +87,10 @@
  <p>&nbsp;</p> 
 
 >![img](/output/TX_counties_uptodate/Brazos_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
+>![img](/output/TX_counties_uptodate/Potter_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -150,11 +150,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Kaufman_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Starr_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Starr_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Kaufman_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -162,11 +162,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Taylor_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Gregg_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Gregg_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Taylor_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -179,6 +179,10 @@
  <p>&nbsp;</p> 
 
 >![img](/output/TX_counties_uptodate/Hale_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
+>![img](/output/TX_counties_uptodate/Tom Green_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -198,7 +202,7 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Tom Green_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Val Verde_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -210,11 +214,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Jones_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Wichita_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Wichita_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Jones_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
