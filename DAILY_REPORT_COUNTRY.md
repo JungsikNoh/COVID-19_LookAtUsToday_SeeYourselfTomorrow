@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-07-15, COVID-19 Time Series
+## 2020-07-16, COVID-19 Time Series
 # Countries (top 25)
 
 
@@ -30,7 +30,7 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Chile_3plot_combined.png)
+>![img](/output/countries_uptodate/South Africa_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -38,7 +38,7 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/South Africa_3plot_combined.png)
+>![img](/output/countries_uptodate/Chile_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -50,11 +50,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Pakistan_3plot_combined.png)
+>![img](/output/countries_uptodate/Spain_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Spain_3plot_combined.png)
+>![img](/output/countries_uptodate/Pakistan_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -98,7 +98,7 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/China_3plot_combined.png)
+>![img](/output/countries_uptodate/Iraq_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -106,7 +106,7 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Iraq_3plot_combined.png)
+>![img](/output/countries_uptodate/China_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
