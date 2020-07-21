@@ -30,7 +30,7 @@ To monitor the pandemic progression and project the numbers in the coming weeks,
 
 1. [Countries](DAILY_REPORT_COUNTRY.md)    
 2. [States in the U.S.](DAILY_REPORT_STATE.md)    
-3. [TX counties with cumulative cases > 200](DAILY_REPORT_TX_COUNTY.md)
+3. [TX counties](DAILY_REPORT_TX_COUNTY.md)
 
 A daily report lists three plots of COVID-19 time series across countries, states or TX counties. For example, the three summary plots for the U.S. is as follows:
 
@@ -59,9 +59,9 @@ For example, daily output plots for the U.S. can be found in [/output/countries/
 
 ## Data sources
 
-- The number of confirmed cases for countries are from COVID-19 data repository of Johns Hopkins CSSE (https://github.com/CSSEGISandData/COVID-19). Updated around 7pm CT.
+- The number of confirmed cases for countries and Texas counties are from COVID-19 data repository of Johns Hopkins CSSE (https://github.com/CSSEGISandData/COVID-19). Updated around 11pm CT.
 - Data at the state level are from the covidtracking project (https://covidtracking.com/). Updated around 4pm CT.
-- Data at the county level are from The New York Times, based on reports from state and local health agencies (https://github.com/nytimes/covid-19-data). Updated around 10am CT the next day.
+- Until 07/19/2020, data at the county level were from The New York Times, based on reports from state and local health agencies (https://github.com/nytimes/covid-19-data). Updated around 10am CT the next day.
 
 ## Contact
 
