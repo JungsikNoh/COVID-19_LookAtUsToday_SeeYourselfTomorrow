@@ -1,7 +1,5 @@
 # COVID-19 Time Series: Look at Us Today, See Yourself Tomorrow
 
->Would you believe that the COVID-19 outbreak in the U.S. is following the trajectory of Italy 13-14 days behind? 
->You can go to [the number of total cases in Italy](https://en.wikipedia.org/wiki/Template:2019%E2%80%9320_coronavirus_pandemic_data/Italy_medical_cases_chart) 13-14 days before, and increase it 5.5 times to adjust population size.
 
 >*Look at us today, see yourself tomorrow.*  
 >*- NY, Governor Andrew Cuomo*
