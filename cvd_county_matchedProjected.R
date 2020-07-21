@@ -62,11 +62,12 @@ cvd_county_matchedProjected = function(curDate, stname, jhudat, TXcountyDat,
   head(TXcountyDat) 
   class(TXcountyDat)
   names(TXcountyDat)
-  head(TXcountyDat$date)
+  #head(TXcountyDat$date)
   
-  stdat1 = TXcountyDat[TXcountyDat$county == stname, ]
+  stdat1 = TXcountyDat[TXcountyDat$Admin2 == stname, ]
   #stdat2 = stdat1[nrow(stdat1):1, ]
-  stdat3 = data.frame(date = stdat1$date, val = stdat1$cases)
+  stdat1_body = stdat1[, c(12:ncol(stdat1))]
+  stdat3 = data.frame(date = colnames(stdat1_body), val = cbind(as.numeric(stdat1_body)))
   colnames(stdat3) = c('date', stname)
   
   # align jhu and covidtracking data
@@ -75,9 +76,10 @@ cvd_county_matchedProjected = function(curDate, stname, jhudat, TXcountyDat,
   #st_y0 = startDate0 %% 10000
   #st_mon0 = st_y0 %/% 100
   #st_day0 = startDate0 %% 100 
-  st_mon0 = month(startDate0)
-  st_day0 = mday(startDate0)
-  dateLab = paste0('X', st_mon0, '.',st_day0, '.', '20')
+  #st_mon0 = month(startDate0)
+  #st_day0 = mday(startDate0)
+  #dateLab = paste0('X', st_mon0, '.',st_day0, '.', '20')
+  dateLab = startDate0
   print(dateLab)
   
   id1 = which(rownames(KOts0) == dateLab)
@@ -151,7 +153,7 @@ cvd_county_matchedProjected = function(curDate, stname, jhudat, TXcountyDat,
   A2 = rbind(rep(NA, numTS), A1[1:(longestLen-1),])
   A3 = A1 - A2
   # rarely it is negative. make it 0.
-  A3 = pmax(A3, 0)
+  A3[A3<0] = 0
   A4 = (A3 / A2) * 100
   
   colnames(A3) = paste0('dif.', colnames(A1))

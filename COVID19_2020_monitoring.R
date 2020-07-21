@@ -3,7 +3,7 @@
 ## Jungsik Noh, UTSW, Dallas, TX
 ## 
 # Updates:
-# 07/21/2020, Noh. 
+# 07/21/2020, Noh. County data fetched from JHU (previously nytimes)
 # 07/20/2020, Noh. The number of countries changed. White spaces in .md fixed. 
 # 04/13/2020, Noh. Add 3-plot output. Add -uptodate output folder.
 # 04/12/2020, Noh. X lab changed. No. of total cases added.
@@ -144,6 +144,54 @@ for (i in 1:numState){
   myCaptnLst[[i]] = tmp
   print(tmp)
 }
+
+
+############################
+## TX Counties from JHU
+############################
+
+totalCases_threshold_toSetStart = 50
+#totCases_thrshld_toSelectCnt = 600
+numCnty = 30
+
+## fetch TX county data from JHU
+url_jhuCounty = 'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_US.csv'
+jhuCountyDat = read.csv(url_jhuCounty, head=T)
+
+# counties in Texas
+ind = (jhuCountyDat$Province_State == 'Texas')
+TXcountyDat = jhuCountyDat[ind, ]
+
+# daily input dataset
+write.csv(TXcountyDat, file.path(getwd(), 'TXcounty_JHUCSSE.csv'))
+tail(TXcountyDat)
+
+# read TX county population 
+#numCnt = 10
+popTXcounty= read.csv(file.path(basicDatasetsDir, 'worldpopulationReviewdotcom_2020_TexasCounty.csv'))
+
+# county sorting
+TXcountyDatL = TXcountyDat[, c(6, ncol(TXcountyDat))]
+head(TXcountyDatL)
+scases = sort(TXcountyDatL[, 2], index.return = T, decreasing = T)
+TXcountyDatL2 = TXcountyDatL[scases$ix, ]
+print(TXcountyDatL2[1:numCnty, ])
+sortedCounties = as.character(TXcountyDatL2$Admin2[1:numCnty])
+print(sortedCounties)
+
+
+# run counties 
+myCaptnLst_county = list()
+for (i in 1:numCnty){
+  tmp = cvd_county_matchedProjected(curDate, sortedCounties[i], jhudat, TXcountyDat, 
+                                    populationData, popTXcounty)
+  myCaptnLst_county[[i]] = tmp
+  print(tmp)
+}
+
+
+
+
 
 
 t2=Sys.time(); t2 - t1

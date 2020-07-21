@@ -5,7 +5,7 @@
  <p>&nbsp;</p> 
 
 ## 2020-07-20, COVID-19 Time Series
-# TX counties with cumulative confirmed cases > 600
+# TX counties (top 30)
 
 
  <p>&nbsp;</p> 
@@ -46,11 +46,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Cameron_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Fort-Bend_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Fort-Bend_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Cameron_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -58,11 +58,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Denton_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Montgomery_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Montgomery_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Denton_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -82,11 +82,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Webb_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Hays_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Hays_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Webb_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -110,11 +110,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Victoria_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Ector_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Ector_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Victoria_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -127,126 +127,6 @@
  <p>&nbsp;</p> 
 
 >![img](/output/TX_counties_uptodate/Smith_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/TX_counties_uptodate/Comal_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/TX_counties_uptodate/Tom Green_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/TX_counties_uptodate/Midland_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/TX_counties_uptodate/Randall_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/TX_counties_uptodate/Guadalupe_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/TX_counties_uptodate/Starr_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/TX_counties_uptodate/Kaufman_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/TX_counties_uptodate/Maverick_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/TX_counties_uptodate/Gregg_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/TX_counties_uptodate/Titus_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/TX_counties_uptodate/Bastrop_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/TX_counties_uptodate/Johnson_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/TX_counties_uptodate/Angelina_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/TX_counties_uptodate/Taylor_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/TX_counties_uptodate/Moore_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/TX_counties_uptodate/Hale_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/TX_counties_uptodate/Val Verde_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/TX_counties_uptodate/Hunt_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/TX_counties_uptodate/Grayson_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/TX_counties_uptodate/Caldwell_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/TX_counties_uptodate/Wichita_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/TX_counties_uptodate/Chambers_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/TX_counties_uptodate/Grimes_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/TX_counties_uptodate/Orange_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/TX_counties_uptodate/Parker_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/TX_counties_uptodate/Navarro_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/TX_counties_uptodate/Nacogdoches_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/TX_counties_uptodate/Liberty_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/TX_counties_uptodate/Jones_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/TX_counties_uptodate/Bowie_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
