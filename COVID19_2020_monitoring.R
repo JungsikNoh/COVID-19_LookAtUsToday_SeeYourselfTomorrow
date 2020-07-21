@@ -137,7 +137,7 @@ print(sortedStates)
 numState = length(sortedStates)
 StateAbb = sortedStates
 myCaptnLst = list()
-for (i in 23:numState){
+for (i in 1:numState){
   tmp = cvd_state_matchedProjected(curDate, StateAbb[i], jhudat, covidtrackingDat, 
                                     populationData, stpopulationData)
   myCaptnLst[[i]] = tmp
