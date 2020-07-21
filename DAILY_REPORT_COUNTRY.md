@@ -46,7 +46,3 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Iran_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
