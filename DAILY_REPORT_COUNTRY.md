@@ -5,15 +5,15 @@
  <p>&nbsp;</p> 
 
 ## 2020-07-19, COVID-19 Time Series
-# Countries (top 25)
+# Countries (top 50)
 
 
  <p>&nbsp;</p> 
-
+1. U.S.
 >![img](/output/countries_uptodate/US_3plot_combined.png)
 
  <p>&nbsp;</p> 
-
+2. Brazil
 >![img](/output/countries_uptodate/Brazil_3plot_combined.png)
 
  <p>&nbsp;</p> 
@@ -26,7 +26,7 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/South Africa_3plot_combined.png)
+>![img](/output/countries_uptodate/SouthÂ Africa_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -42,7 +42,7 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/United Kingdom_3plot_combined.png)
+>![img](/output/countries_uptodate/UnitedÂ Kingdom_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -58,7 +58,7 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Saudi Arabia_3plot_combined.png)
+>![img](/output/countries_uptodate/SaudiÂ Arabia_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -154,7 +154,7 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/United Arab Emirates_3plot_combined.png)
+>![img](/output/countries_uptodate/UnitedÂ ArabÂ Emirates_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -162,7 +162,7 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Dominican Republic_3plot_combined.png)
+>![img](/output/countries_uptodate/DominicanÂ Republic_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -210,7 +210,7 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/Korea, South_3plot_combined.png)
+>![img](/output/countries_uptodate/Korea,Â South_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
