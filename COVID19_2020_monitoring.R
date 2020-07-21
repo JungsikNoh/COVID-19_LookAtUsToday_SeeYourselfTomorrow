@@ -3,6 +3,7 @@
 ## Jungsik Noh, UTSW, Dallas, TX
 ## 
 # Updates:
+# 07/21/2020, Noh. 
 # 07/20/2020, Noh. The number of countries changed. White spaces in .md fixed. 
 # 04/13/2020, Noh. Add 3-plot output. Add -uptodate output folder.
 # 04/12/2020, Noh. X lab changed. No. of total cases added.
