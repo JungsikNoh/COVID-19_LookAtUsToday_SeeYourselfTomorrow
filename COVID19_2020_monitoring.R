@@ -59,7 +59,7 @@ write.csv(covidtrackingDat, file.path(getwd(), 'covidtracking_dot_com.csv'))
 head(covidtrackingDat[, 1:7])
 
 
-# csv input files
+# csv input files of population data
 basicDatasetsDir = file.path(getwd(), 'basicDatasets')
 populationData = read.csv(file.path(basicDatasetsDir, 'usItalyKorea_Population2020UN.csv'))
 stpopulationData =
@@ -75,10 +75,10 @@ mvWin = 3
 
 
 ######################
-##  top 25 countries
+##  top xx countries
 ######################
 
-numCntr = 25
+numCntr = 50
 UNpop2019Dat = read.csv(file.path(basicDatasetsDir, 'UN_WPP2019_POP_F01_1_TOTAL_POPULATION_BOTH_SEXES_2019.csv'))
 
 jhudatL = jhudat[, c(2, ncol(jhudat))]
@@ -91,12 +91,14 @@ namesTop20 = as.character(jhudatL2$Country.Region[1:numCntr])
 # Korea is not in top 25 (04/21 revised)
 namesTop20 = c(namesTop20, 'Korea, South')
 
+
 # name curation -.-;; good job jhu
 namesTop20_1 = namesTop20
 namesTop20_1[(namesTop20 == 'US')] = 'United States of America'
 namesTop20_1[(namesTop20 == 'Korea, South')] = 'Republic of Korea'
 namesTop20_1[(namesTop20 == 'Iran')] = 'Iran (Islamic Republic of)'
 namesTop20_1[(namesTop20 == 'Russia')] = 'Russian Federation'
+namesTop20_1[(namesTop20 == 'Bolivia')] = 'Bolivia (Plurinational State of)'
 
 
 
@@ -108,9 +110,9 @@ for (i in 1:nrow(countryNamePop)){
 }
 
 # run countries
-numState = numCntr
+#numState = numCntr
 myCaptnLst_country = list()
-for (i in 1:numState){
+for (i in 23:(numCntr+1)){
   stname = as.character(countryNamePop$Region[i])
   tmp = cvd_country_matchedProjected(curDate, stname, jhudat, countryNamePop)
   myCaptnLst_country[[i]] = tmp
@@ -134,7 +136,7 @@ print(sortedStates)
 numState = length(sortedStates)
 StateAbb = sortedStates
 myCaptnLst = list()
-for (i in 1:numState){
+for (i in 23:numState){
   tmp = cvd_state_matchedProjected(curDate, StateAbb[i], jhudat, covidtrackingDat, 
                                     populationData, stpopulationData)
   myCaptnLst[[i]] = tmp
