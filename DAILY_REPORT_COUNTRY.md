@@ -9,6 +9,7 @@
 
 
  <p>&nbsp;</p> 
+<<<<<<< HEAD
 
 1. US <p>
 >![img](/output/countries_uptodate/US_3plot_combined.png)
@@ -16,6 +17,15 @@
  <p>&nbsp;</p> 
 
 2. Brazil <p>
+=======
+1. U.S. <p>
+ 
+>![img](/output/countries_uptodate/US_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+2. Brazil <p>
+ 
+>>>>>>> 099e2cb915ca0a3f491696ba8a104cd5e636fa3c
 >![img](/output/countries_uptodate/Brazil_3plot_combined.png)
 
  <p>&nbsp;</p> 
@@ -30,8 +40,12 @@
 
  <p>&nbsp;</p> 
 
+<<<<<<< HEAD
 5. South Africa <p>
 >![img](/output/countries_uptodate/South Africa_3plot_combined.png)
+=======
+>![img](/output/countries_uptodate/SouthÂ Africa_3plot_combined.png)
+>>>>>>> 099e2cb915ca0a3f491696ba8a104cd5e636fa3c
 
  <p>&nbsp;</p> 
 
@@ -50,8 +64,12 @@
 
  <p>&nbsp;</p> 
 
+<<<<<<< HEAD
 9. United Kingdom <p>
 >![img](/output/countries_uptodate/United Kingdom_3plot_combined.png)
+=======
+>![img](/output/countries_uptodate/UnitedÂ Kingdom_3plot_combined.png)
+>>>>>>> 099e2cb915ca0a3f491696ba8a104cd5e636fa3c
 
  <p>&nbsp;</p> 
 
@@ -70,8 +88,12 @@
 
  <p>&nbsp;</p> 
 
+<<<<<<< HEAD
 13. Saudi Arabia <p>
 >![img](/output/countries_uptodate/Saudi Arabia_3plot_combined.png)
+=======
+>![img](/output/countries_uptodate/SaudiÂ Arabia_3plot_combined.png)
+>>>>>>> 099e2cb915ca0a3f491696ba8a104cd5e636fa3c
 
  <p>&nbsp;</p> 
 
@@ -190,8 +212,12 @@
 
  <p>&nbsp;</p> 
 
+<<<<<<< HEAD
 37. United Arab Emirates <p>
 >![img](/output/countries_uptodate/United Arab Emirates_3plot_combined.png)
+=======
+>![img](/output/countries_uptodate/UnitedÂ ArabÂ Emirates_3plot_combined.png)
+>>>>>>> 099e2cb915ca0a3f491696ba8a104cd5e636fa3c
 
  <p>&nbsp;</p> 
 
@@ -200,8 +226,12 @@
 
  <p>&nbsp;</p> 
 
+<<<<<<< HEAD
 39. Dominican Republic <p>
 >![img](/output/countries_uptodate/Dominican Republic_3plot_combined.png)
+=======
+>![img](/output/countries_uptodate/DominicanÂ Republic_3plot_combined.png)
+>>>>>>> 099e2cb915ca0a3f491696ba8a104cd5e636fa3c
 
  <p>&nbsp;</p> 
 
@@ -260,8 +290,12 @@
 
  <p>&nbsp;</p> 
 
+<<<<<<< HEAD
 Armenia <p>
 >![img](/output/countries_uptodate/Armenia_3plot_combined.png)
+=======
+>![img](/output/countries_uptodate/Korea,Â South_3plot_combined.png)
+>>>>>>> 099e2cb915ca0a3f491696ba8a104cd5e636fa3c
 
  <p>&nbsp;</p> 
 
