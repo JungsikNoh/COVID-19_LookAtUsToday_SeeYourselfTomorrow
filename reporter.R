@@ -62,9 +62,9 @@ for (i in 1:numCntr){
   cat(getImg)
   cat('\n\n', '<p>&nbsp;</p>', '\n\n')
 }
-  cat(paste0(cname2[i], ' <p>\n'))
+  cat(paste0(cname2[51], ' <p>\n'))
   getImg = paste0('>![img](/output/countries_uptodate/',
-                  cname2[i], '_3plot_combined.png)')
+                  cname2[51], '_3plot_combined.png)')
   cat(getImg)
   cat('\n\n', '<p>&nbsp;</p>', '\n\n')
 sink()

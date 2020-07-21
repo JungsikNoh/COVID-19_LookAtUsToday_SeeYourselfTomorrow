@@ -260,8 +260,8 @@
 
  <p>&nbsp;</p> 
 
-Armenia <p>
->![img](/output/countries_uptodate/Armenia_3plot_combined.png)
+Korea, South <p>
+>![img](/output/countries_uptodate/Korea, South_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
