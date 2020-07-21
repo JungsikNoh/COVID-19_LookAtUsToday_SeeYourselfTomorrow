@@ -10,10 +10,12 @@
 
  <p>&nbsp;</p> 
 1. U.S. <p>
+ 
 >![img](/output/countries_uptodate/US_3plot_combined.png)
 
  <p>&nbsp;</p> 
 2. Brazil <p>
+ 
 >![img](/output/countries_uptodate/Brazil_3plot_combined.png)
 
  <p>&nbsp;</p> 
