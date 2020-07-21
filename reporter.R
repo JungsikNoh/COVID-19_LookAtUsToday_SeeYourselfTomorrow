@@ -53,14 +53,20 @@ sink(file.path(getwd(), repname1))
 cat('<img align="right"  height="100" src="/doc/utsw-master-logo-cmyk+BI.png">')
 cat('\n\n', '<p>&nbsp;</p>', '\n\n', '<p>&nbsp;</p>', '\n\n')
 cat(paste0('## ', curDate, ', COVID-19 Time Series', '\n'))
-cat('# Countries (top 25)\n')
+cat('# Countries (top 50)\n')
 cat('\n\n', '<p>&nbsp;</p>', '\n\n')
-for (i in 1:nrow(countryNamePop)){
+for (i in 1:numCntr)){
+  cat(paste0(i, '. ', cname2[i], ' <p>\n'))
   getImg = paste0('>![img](/output/countries_uptodate/',
                   cname2[i], '_3plot_combined.png)')
   cat(getImg)
   cat('\n\n', '<p>&nbsp;</p>', '\n\n')
 }
+  cat(paste0(cname2[i], ' <p>\n'))
+  getImg = paste0('>![img](/output/countries_uptodate/',
+                  cname2[i], '_3plot_combined.png)')
+  cat(getImg)
+  cat('\n\n', '<p>&nbsp;</p>', '\n\n')
 sink()
 
 
