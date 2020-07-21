@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-07-19, COVID-19 Time Series
+## 2020-07-20, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -90,18 +90,18 @@
 
  <p>&nbsp;</p> 
 
-17. Germany <p>
+17. Colombia <p>
+>![img](/output/countries_uptodate/Colombia_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
+18. Germany <p>
 >![img](/output/countries_uptodate/Germany_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-18. France <p>
+19. France <p>
 >![img](/output/countries_uptodate/France_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
-19. Colombia <p>
->![img](/output/countries_uptodate/Colombia_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -175,13 +175,13 @@
 
  <p>&nbsp;</p> 
 
-34. Ukraine <p>
->![img](/output/countries_uptodate/Ukraine_3plot_combined.png)
+34. Bolivia <p>
+>![img](/output/countries_uptodate/Bolivia_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-35. Bolivia <p>
->![img](/output/countries_uptodate/Bolivia_3plot_combined.png)
+35. Ukraine <p>
+>![img](/output/countries_uptodate/Ukraine_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -205,13 +205,13 @@
 
  <p>&nbsp;</p> 
 
-40. Netherlands <p>
->![img](/output/countries_uptodate/Netherlands_3plot_combined.png)
+40. Israel <p>
+>![img](/output/countries_uptodate/Israel_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-41. Israel <p>
->![img](/output/countries_uptodate/Israel_3plot_combined.png)
+41. Netherlands <p>
+>![img](/output/countries_uptodate/Netherlands_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
