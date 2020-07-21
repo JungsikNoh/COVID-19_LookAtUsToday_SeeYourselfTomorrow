@@ -3,6 +3,7 @@
 ## Jungsik Noh, UTSW, Dallas, TX
 ## 
 # Updates:
+# 07/20/2020, Noh. The number of countries changed. White spaces in .md fixed. 
 # 04/13/2020, Noh. Add 3-plot output. Add -uptodate output folder.
 # 04/12/2020, Noh. X lab changed. No. of total cases added.
 # 04/11/2020, Noh. Add ref line. Add TX county analysis.
@@ -112,7 +113,7 @@ for (i in 1:nrow(countryNamePop)){
 # run countries
 #numState = numCntr
 myCaptnLst_country = list()
-for (i in 1:(numCntr+1)){
+for (i in 38:(numCntr+1)){
   stname = as.character(countryNamePop$Region[i])
   tmp = cvd_country_matchedProjected(curDate, stname, jhudat, countryNamePop)
   myCaptnLst_country[[i]] = tmp
