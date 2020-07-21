@@ -13,27 +13,38 @@ print(curDate)
 
 head(countryNamePop)
 
-# manual curation
+# curation
 cname = countryNamePop$Region
-levels(cname)[levels(cname) == 'Korea, South'] <- 'Korea,-South' 
-levels(cname)[levels(cname) == 'United Kingdom'] <- 'United-Kingdom' 
-levels(cname)[levels(cname) == 'Saudi Arabia'] <- 'Saudi-Arabia' 
-cnamePop = cbind(cname, countryNamePop[,2:3])
+
+# name curation for white spaces
+whspInd = rep(0, nrow(countryNamePop))
+cname2 = rep(NA, nrow(countryNamePop))
+for (i in 1:(numCntr+1)){
+  x = cname[i]
+  y = chartr(' ', '\u00a0', x)
+  whspInd[i] = (x != y)
+  cname2[i] = y
+} 
+
+#levels(cname)[levels(cname) == 'Korea, South'] <- 'Korea,-South' 
+#levels(cname)[levels(cname) == 'United Kingdom'] <- 'United-Kingdom' 
+#levels(cname)[levels(cname) == 'Saudi Arabia'] <- 'Saudi-Arabia' 
+#cnamePop = cbind(cname2, countryNamePop[,2:3])
 
 outPath3 = file.path(getwd(), 'output', 'countries_uptodate')
-if (file.exists(file.path(outPath3, 'Korea, South_3plot_combined.png'))) {
-  file.copy(file.path(outPath3, 'Korea, South_3plot_combined.png'), 
-            file.path(outPath3, 'Korea,-South_3plot_combined.png'), overwrite = T)
-}
-if (file.exists(file.path(outPath3, 'United Kingdom_3plot_combined.png'))) {
-  file.copy(file.path(outPath3, 'United Kingdom_3plot_combined.png'), 
-            file.path(outPath3, 'United-Kingdom_3plot_combined.png'), overwrite = T)
-}
-if (file.exists(file.path(outPath3, 'Saudi Arabia_3plot_combined.png'))) {
-  file.copy(file.path(outPath3, 'Saudi Arabia_3plot_combined.png'), 
-            file.path(outPath3, 'Saudi-Arabia_3plot_combined.png'), overwrite = T)
+for (i in which(whspInd==1)){
+  #print(i)
+  if (file.exists(file.path(outPath3, paste0(cname[i], '_3plot_combined.png')))) {
+    file.copy(file.path(outPath3, paste0(cname[i], '_3plot_combined.png')), 
+              file.path(outPath3, paste0(cname2[i], '_3plot_combined.png')), overwrite = T)
+  }
 }
 
+
+#if (file.exists(file.path(outPath3, 'Korea, South_3plot_combined.png'))) {
+#  file.copy(file.path(outPath3, 'Korea, South_3plot_combined.png'), 
+#            file.path(outPath3, 'Korea,-South_3plot_combined.png'), overwrite = T)
+#}
 
 
 repname1 = 'DAILY_REPORT_COUNTRY.md'
@@ -44,9 +55,9 @@ cat('\n\n', '<p>&nbsp;</p>', '\n\n', '<p>&nbsp;</p>', '\n\n')
 cat(paste0('## ', curDate, ', COVID-19 Time Series', '\n'))
 cat('# Countries (top 25)\n')
 cat('\n\n', '<p>&nbsp;</p>', '\n\n')
-for (i in 1:10){      # nrow(countryNamePop)){
+for (i in 1:9){      # nrow(countryNamePop)){
   getImg = paste0('>![img](/output/countries_uptodate/',
-                  cname[i], '_3plot_combined.png)')
+                  cname2[i], '_3plot_combined.png)')
   cat(getImg)
   cat('\n\n', '<p>&nbsp;</p>', '\n\n')
 }

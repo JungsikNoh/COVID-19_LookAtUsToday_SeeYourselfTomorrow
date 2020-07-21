@@ -92,14 +92,15 @@ namesTop20 = as.character(jhudatL2$Country.Region[1:numCntr])
 namesTop20 = c(namesTop20, 'Korea, South')
 
 
+
 # name curation -.-;; good job jhu
 namesTop20_1 = namesTop20
 namesTop20_1[(namesTop20 == 'US')] = 'United States of America'
+#namesTop20_1[(namesTop20 == paste0('Korea,', '\u00a0', 'South'))] = 'Republic of Korea'
 namesTop20_1[(namesTop20 == 'Korea, South')] = 'Republic of Korea'
 namesTop20_1[(namesTop20 == 'Iran')] = 'Iran (Islamic Republic of)'
 namesTop20_1[(namesTop20 == 'Russia')] = 'Russian Federation'
 namesTop20_1[(namesTop20 == 'Bolivia')] = 'Bolivia (Plurinational State of)'
-
 
 
 # fetch pop
@@ -108,6 +109,7 @@ for (i in 1:nrow(countryNamePop)){
   pop0 = UNpop2019Dat$X2019[which(UNpop2019Dat$Region == namesTop20_1[i])]
   countryNamePop$pop2019[i] = pop0
 }
+
 
 # run countries
 #numState = numCntr

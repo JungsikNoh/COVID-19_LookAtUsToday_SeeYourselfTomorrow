@@ -26,7 +26,7 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/South Africa_3plot_combined.png)
+>![img](/output/countries_uptodate/South Africa_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -42,7 +42,7 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/countries_uptodate/United-Kingdom_3plot_combined.png)
+>![img](/output/countries_uptodate/United Kingdom_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
