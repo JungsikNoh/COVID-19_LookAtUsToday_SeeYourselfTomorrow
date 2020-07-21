@@ -92,11 +92,9 @@ namesTop20 = as.character(jhudatL2$Country.Region[1:numCntr])
 namesTop20 = c(namesTop20, 'Korea, South')
 
 
-
 # name curation -.-;; good job jhu
 namesTop20_1 = namesTop20
 namesTop20_1[(namesTop20 == 'US')] = 'United States of America'
-#namesTop20_1[(namesTop20 == paste0('Korea,', '\u00a0', 'South'))] = 'Republic of Korea'
 namesTop20_1[(namesTop20 == 'Korea, South')] = 'Republic of Korea'
 namesTop20_1[(namesTop20 == 'Iran')] = 'Iran (Islamic Republic of)'
 namesTop20_1[(namesTop20 == 'Russia')] = 'Russian Federation'
@@ -114,7 +112,7 @@ for (i in 1:nrow(countryNamePop)){
 # run countries
 #numState = numCntr
 myCaptnLst_country = list()
-for (i in 23:(numCntr+1)){
+for (i in 1:(numCntr+1)){
   stname = as.character(countryNamePop$Region[i])
   tmp = cvd_country_matchedProjected(curDate, stname, jhudat, countryNamePop)
   myCaptnLst_country[[i]] = tmp

@@ -157,6 +157,8 @@ cvd_country_matchedProjected = function(curDate, stname, jhudat, countryNamePop)
   A1 = datf2[,1+1:numTS]
   A2 = rbind(rep(NA, numTS), A1[1:(longestLen-1),])
   A3 = A1 - A2
+  # rarely it is negative. make it 0.
+  A3 = pmax(A3, 0)
   A4 = (A3 / A2) * 100
   
   colnames(A3) = paste0('dif.', colnames(A1))

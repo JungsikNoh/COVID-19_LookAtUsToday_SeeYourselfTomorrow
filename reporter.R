@@ -55,7 +55,7 @@ cat('\n\n', '<p>&nbsp;</p>', '\n\n', '<p>&nbsp;</p>', '\n\n')
 cat(paste0('## ', curDate, ', COVID-19 Time Series', '\n'))
 cat('# Countries (top 25)\n')
 cat('\n\n', '<p>&nbsp;</p>', '\n\n')
-for (i in 1:9){      # nrow(countryNamePop)){
+for (i in 1:nrow(countryNamePop)){
   getImg = paste0('>![img](/output/countries_uptodate/',
                   cname2[i], '_3plot_combined.png)')
   cat(getImg)
