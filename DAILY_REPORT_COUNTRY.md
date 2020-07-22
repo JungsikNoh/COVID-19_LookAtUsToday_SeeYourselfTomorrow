@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-07-20, COVID-19 Time Series
+## 2020-07-21, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -85,13 +85,13 @@
 
  <p>&nbsp;</p> 
 
-16. Bangladesh <p>
->![img](/output/countries_uptodate/Bangladesh_3plot_combined.png)
+16. Colombia <p>
+>![img](/output/countries_uptodate/Colombia_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-17. Colombia <p>
->![img](/output/countries_uptodate/Colombia_3plot_combined.png)
+17. Bangladesh <p>
+>![img](/output/countries_uptodate/Bangladesh_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -125,13 +125,13 @@
 
  <p>&nbsp;</p> 
 
-24. Egypt <p>
->![img](/output/countries_uptodate/Egypt_3plot_combined.png)
+24. Indonesia <p>
+>![img](/output/countries_uptodate/Indonesia_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-25. Indonesia <p>
->![img](/output/countries_uptodate/Indonesia_3plot_combined.png)
+25. Egypt <p>
+>![img](/output/countries_uptodate/Egypt_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -255,8 +255,8 @@
 
  <p>&nbsp;</p> 
 
-50. Armenia <p>
->![img](/output/countries_uptodate/Armenia_3plot_combined.png)
+50. Honduras <p>
+>![img](/output/countries_uptodate/Honduras_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
