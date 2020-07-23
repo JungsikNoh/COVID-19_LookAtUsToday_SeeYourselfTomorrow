@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-07-21, COVID-19 Time Series
+## 2020-07-22, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -95,13 +95,13 @@
 
  <p>&nbsp;</p> 
 
-18. Germany <p>
->![img](/output/countries_uptodate/Germany_3plot_combined.png)
+18. France <p>
+>![img](/output/countries_uptodate/France_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-19. France <p>
->![img](/output/countries_uptodate/France_3plot_combined.png)
+19. Germany <p>
+>![img](/output/countries_uptodate/Germany_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -195,8 +195,8 @@
 
  <p>&nbsp;</p> 
 
-38. Panama <p>
->![img](/output/countries_uptodate/Panama_3plot_combined.png)
+38. Israel <p>
+>![img](/output/countries_uptodate/Israel_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -205,8 +205,8 @@
 
  <p>&nbsp;</p> 
 
-40. Israel <p>
->![img](/output/countries_uptodate/Israel_3plot_combined.png)
+40. Panama <p>
+>![img](/output/countries_uptodate/Panama_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -250,13 +250,13 @@
 
  <p>&nbsp;</p> 
 
-49. Afghanistan <p>
->![img](/output/countries_uptodate/Afghanistan_3plot_combined.png)
+49. Honduras <p>
+>![img](/output/countries_uptodate/Honduras_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-50. Honduras <p>
->![img](/output/countries_uptodate/Honduras_3plot_combined.png)
+50. Afghanistan <p>
+>![img](/output/countries_uptodate/Afghanistan_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
