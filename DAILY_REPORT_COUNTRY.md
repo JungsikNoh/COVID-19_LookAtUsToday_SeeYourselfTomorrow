@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-07-22, COVID-19 Time Series
+## 2020-07-23, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -80,13 +80,13 @@
 
  <p>&nbsp;</p> 
 
-15. Turkey <p>
->![img](/output/countries_uptodate/Turkey_3plot_combined.png)
+15. Colombia <p>
+>![img](/output/countries_uptodate/Colombia_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-16. Colombia <p>
->![img](/output/countries_uptodate/Colombia_3plot_combined.png)
+16. Turkey <p>
+>![img](/output/countries_uptodate/Turkey_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -145,13 +145,13 @@
 
  <p>&nbsp;</p> 
 
-28. Ecuador <p>
->![img](/output/countries_uptodate/Ecuador_3plot_combined.png)
+28. Kazakhstan <p>
+>![img](/output/countries_uptodate/Kazakhstan_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-29. Kazakhstan <p>
->![img](/output/countries_uptodate/Kazakhstan_3plot_combined.png)
+29. Ecuador <p>
+>![img](/output/countries_uptodate/Ecuador_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -170,13 +170,13 @@
 
  <p>&nbsp;</p> 
 
-33. Belgium <p>
->![img](/output/countries_uptodate/Belgium_3plot_combined.png)
+33. Bolivia <p>
+>![img](/output/countries_uptodate/Bolivia_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-34. Bolivia <p>
->![img](/output/countries_uptodate/Bolivia_3plot_combined.png)
+34. Belgium <p>
+>![img](/output/countries_uptodate/Belgium_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -225,13 +225,13 @@
 
  <p>&nbsp;</p> 
 
-44. Poland <p>
->![img](/output/countries_uptodate/Poland_3plot_combined.png)
+44. Guatemala <p>
+>![img](/output/countries_uptodate/Guatemala_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-45. Guatemala <p>
->![img](/output/countries_uptodate/Guatemala_3plot_combined.png)
+45. Poland <p>
+>![img](/output/countries_uptodate/Poland_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -255,8 +255,8 @@
 
  <p>&nbsp;</p> 
 
-50. Afghanistan <p>
->![img](/output/countries_uptodate/Afghanistan_3plot_combined.png)
+50. Armenia <p>
+>![img](/output/countries_uptodate/Armenia_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
