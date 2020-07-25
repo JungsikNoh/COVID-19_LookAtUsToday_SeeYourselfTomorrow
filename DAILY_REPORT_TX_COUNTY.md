@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-07-23, COVID-19 Time Series
+## 2020-07-24, COVID-19 Time Series
 # TX counties (top 30)
 
 
@@ -54,15 +54,15 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Collin_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
 >![img](/output/TX_counties_uptodate/Denton_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
 >![img](/output/TX_counties_uptodate/Montgomery_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
+>![img](/output/TX_counties_uptodate/Collin_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -106,15 +106,15 @@
 
  <p>&nbsp;</p> 
 
+>![img](/output/TX_counties_uptodate/Ector_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
 >![img](/output/TX_counties_uptodate/Victoria_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
 >![img](/output/TX_counties_uptodate/Walker_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/TX_counties_uptodate/Ector_3plot_combined.png)
 
  <p>&nbsp;</p> 
 

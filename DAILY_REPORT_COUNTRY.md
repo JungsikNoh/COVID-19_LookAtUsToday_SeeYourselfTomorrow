@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-07-23, COVID-19 Time Series
+## 2020-07-24, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -35,13 +35,13 @@
 
  <p>&nbsp;</p> 
 
-6. Peru <p>
->![img](/output/countries_uptodate/Peru_3plot_combined.png)
+6. Mexico <p>
+>![img](/output/countries_uptodate/Mexico_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-7. Mexico <p>
->![img](/output/countries_uptodate/Mexico_3plot_combined.png)
+7. Peru <p>
+>![img](/output/countries_uptodate/Peru_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -60,13 +60,13 @@
 
  <p>&nbsp;</p> 
 
-11. Pakistan <p>
->![img](/output/countries_uptodate/Pakistan_3plot_combined.png)
+11. Spain <p>
+>![img](/output/countries_uptodate/Spain_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-12. Spain <p>
->![img](/output/countries_uptodate/Spain_3plot_combined.png)
+12. Pakistan <p>
+>![img](/output/countries_uptodate/Pakistan_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -140,18 +140,18 @@
 
  <p>&nbsp;</p> 
 
-27. Sweden <p>
->![img](/output/countries_uptodate/Sweden_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
-28. Kazakhstan <p>
+27. Kazakhstan <p>
 >![img](/output/countries_uptodate/Kazakhstan_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-29. Ecuador <p>
+28. Ecuador <p>
 >![img](/output/countries_uptodate/Ecuador_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
+29. Sweden <p>
+>![img](/output/countries_uptodate/Sweden_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -190,18 +190,18 @@
 
  <p>&nbsp;</p> 
 
-37. United Arab Emirates <p>
->![img](/output/countries_uptodate/United Arab Emirates_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
-38. Israel <p>
+37. Israel <p>
 >![img](/output/countries_uptodate/Israel_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-39. Dominican Republic <p>
+38. Dominican Republic <p>
 >![img](/output/countries_uptodate/Dominican Republic_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
+39. United Arab Emirates <p>
+>![img](/output/countries_uptodate/United Arab Emirates_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -230,13 +230,13 @@
 
  <p>&nbsp;</p> 
 
-45. Poland <p>
->![img](/output/countries_uptodate/Poland_3plot_combined.png)
+45. Romania <p>
+>![img](/output/countries_uptodate/Romania_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-46. Romania <p>
->![img](/output/countries_uptodate/Romania_3plot_combined.png)
+46. Poland <p>
+>![img](/output/countries_uptodate/Poland_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
