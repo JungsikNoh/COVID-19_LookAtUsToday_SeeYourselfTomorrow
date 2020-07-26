@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-07-24, COVID-19 Time Series
+## 2020-07-25, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -60,13 +60,13 @@
 
  <p>&nbsp;</p> 
 
-11. Spain <p>
->![img](/output/countries_uptodate/Spain_3plot_combined.png)
+11. Pakistan <p>
+>![img](/output/countries_uptodate/Pakistan_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-12. Pakistan <p>
->![img](/output/countries_uptodate/Pakistan_3plot_combined.png)
+12. Spain <p>
+>![img](/output/countries_uptodate/Spain_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -165,13 +165,13 @@
 
  <p>&nbsp;</p> 
 
-32. Belarus <p>
->![img](/output/countries_uptodate/Belarus_3plot_combined.png)
+32. Bolivia <p>
+>![img](/output/countries_uptodate/Bolivia_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-33. Bolivia <p>
->![img](/output/countries_uptodate/Bolivia_3plot_combined.png)
+33. Belarus <p>
+>![img](/output/countries_uptodate/Belarus_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -190,23 +190,23 @@
 
  <p>&nbsp;</p> 
 
-37. Israel <p>
->![img](/output/countries_uptodate/Israel_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
-38. Dominican Republic <p>
+37. Dominican Republic <p>
 >![img](/output/countries_uptodate/Dominican Republic_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-39. United Arab Emirates <p>
->![img](/output/countries_uptodate/United Arab Emirates_3plot_combined.png)
+38. Israel <p>
+>![img](/output/countries_uptodate/Israel_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-40. Panama <p>
+39. Panama <p>
 >![img](/output/countries_uptodate/Panama_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
+40. United Arab Emirates <p>
+>![img](/output/countries_uptodate/United Arab Emirates_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
