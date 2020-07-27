@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-07-25, COVID-19 Time Series
+## 2020-07-26, COVID-19 Time Series
 # States in the U.S.
 
 
@@ -50,11 +50,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/PA_3plot_combined.png)
+>![img](/output/states_uptodate/LA_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/LA_3plot_combined.png)
+>![img](/output/states_uptodate/PA_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -126,11 +126,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/UT_3plot_combined.png)
+>![img](/output/states_uptodate/AR_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/AR_3plot_combined.png)
+>![img](/output/states_uptodate/UT_3plot_combined.png)
 
  <p>&nbsp;</p> 
 

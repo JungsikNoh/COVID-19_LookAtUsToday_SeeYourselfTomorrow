@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-07-25, COVID-19 Time Series
+## 2020-07-26, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -95,13 +95,13 @@
 
  <p>&nbsp;</p> 
 
-18. France <p>
->![img](/output/countries_uptodate/France_3plot_combined.png)
+18. Germany <p>
+>![img](/output/countries_uptodate/Germany_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-19. Germany <p>
->![img](/output/countries_uptodate/Germany_3plot_combined.png)
+19. France <p>
+>![img](/output/countries_uptodate/France_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -115,13 +115,13 @@
 
  <p>&nbsp;</p> 
 
-22. Qatar <p>
->![img](/output/countries_uptodate/Qatar_3plot_combined.png)
+22. Iraq <p>
+>![img](/output/countries_uptodate/Iraq_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-23. Iraq <p>
->![img](/output/countries_uptodate/Iraq_3plot_combined.png)
+23. Qatar <p>
+>![img](/output/countries_uptodate/Qatar_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -150,13 +150,13 @@
 
  <p>&nbsp;</p> 
 
-29. Sweden <p>
->![img](/output/countries_uptodate/Sweden_3plot_combined.png)
+29. Philippines <p>
+>![img](/output/countries_uptodate/Philippines_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-30. Philippines <p>
->![img](/output/countries_uptodate/Philippines_3plot_combined.png)
+30. Sweden <p>
+>![img](/output/countries_uptodate/Sweden_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -175,13 +175,13 @@
 
  <p>&nbsp;</p> 
 
-34. Belgium <p>
->![img](/output/countries_uptodate/Belgium_3plot_combined.png)
+34. Ukraine <p>
+>![img](/output/countries_uptodate/Ukraine_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-35. Ukraine <p>
->![img](/output/countries_uptodate/Ukraine_3plot_combined.png)
+35. Belgium <p>
+>![img](/output/countries_uptodate/Belgium_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -215,13 +215,13 @@
 
  <p>&nbsp;</p> 
 
-42. Portugal <p>
->![img](/output/countries_uptodate/Portugal_3plot_combined.png)
+42. Singapore <p>
+>![img](/output/countries_uptodate/Singapore_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-43. Singapore <p>
->![img](/output/countries_uptodate/Singapore_3plot_combined.png)
+43. Portugal <p>
+>![img](/output/countries_uptodate/Portugal_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -245,13 +245,13 @@
 
  <p>&nbsp;</p> 
 
-48. Bahrain <p>
->![img](/output/countries_uptodate/Bahrain_3plot_combined.png)
+48. Honduras <p>
+>![img](/output/countries_uptodate/Honduras_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-49. Honduras <p>
->![img](/output/countries_uptodate/Honduras_3plot_combined.png)
+49. Bahrain <p>
+>![img](/output/countries_uptodate/Bahrain_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
