@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-07-26, COVID-19 Time Series
+## 2020-07-27, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -75,13 +75,13 @@
 
  <p>&nbsp;</p> 
 
-14. Italy <p>
->![img](/output/countries_uptodate/Italy_3plot_combined.png)
+14. Colombia <p>
+>![img](/output/countries_uptodate/Colombia_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-15. Colombia <p>
->![img](/output/countries_uptodate/Colombia_3plot_combined.png)
+15. Italy <p>
+>![img](/output/countries_uptodate/Italy_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -95,13 +95,13 @@
 
  <p>&nbsp;</p> 
 
-18. Germany <p>
->![img](/output/countries_uptodate/Germany_3plot_combined.png)
+18. France <p>
+>![img](/output/countries_uptodate/France_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-19. France <p>
->![img](/output/countries_uptodate/France_3plot_combined.png)
+19. Germany <p>
+>![img](/output/countries_uptodate/Germany_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -145,13 +145,13 @@
 
  <p>&nbsp;</p> 
 
-28. Ecuador <p>
->![img](/output/countries_uptodate/Ecuador_3plot_combined.png)
+28. Philippines <p>
+>![img](/output/countries_uptodate/Philippines_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-29. Philippines <p>
->![img](/output/countries_uptodate/Philippines_3plot_combined.png)
+29. Ecuador <p>
+>![img](/output/countries_uptodate/Ecuador_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -225,13 +225,13 @@
 
  <p>&nbsp;</p> 
 
-44. Guatemala <p>
->![img](/output/countries_uptodate/Guatemala_3plot_combined.png)
+44. Romania <p>
+>![img](/output/countries_uptodate/Romania_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-45. Romania <p>
->![img](/output/countries_uptodate/Romania_3plot_combined.png)
+45. Guatemala <p>
+>![img](/output/countries_uptodate/Guatemala_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
