@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-07-27, COVID-19 Time Series
+## 2020-07-28, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -60,13 +60,13 @@
 
  <p>&nbsp;</p> 
 
-11. Pakistan <p>
->![img](/output/countries_uptodate/Pakistan_3plot_combined.png)
+11. Spain <p>
+>![img](/output/countries_uptodate/Spain_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-12. Spain <p>
->![img](/output/countries_uptodate/Spain_3plot_combined.png)
+12. Pakistan <p>
+>![img](/output/countries_uptodate/Pakistan_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -85,13 +85,13 @@
 
  <p>&nbsp;</p> 
 
-16. Turkey <p>
->![img](/output/countries_uptodate/Turkey_3plot_combined.png)
+16. Bangladesh <p>
+>![img](/output/countries_uptodate/Bangladesh_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-17. Bangladesh <p>
->![img](/output/countries_uptodate/Bangladesh_3plot_combined.png)
+17. Turkey <p>
+>![img](/output/countries_uptodate/Turkey_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -170,13 +170,13 @@
 
  <p>&nbsp;</p> 
 
-33. Belarus <p>
->![img](/output/countries_uptodate/Belarus_3plot_combined.png)
+33. Ukraine <p>
+>![img](/output/countries_uptodate/Ukraine_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-34. Ukraine <p>
->![img](/output/countries_uptodate/Ukraine_3plot_combined.png)
+34. Belarus <p>
+>![img](/output/countries_uptodate/Belarus_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -185,18 +185,18 @@
 
  <p>&nbsp;</p> 
 
-36. Kuwait <p>
+36. Israel <p>
+>![img](/output/countries_uptodate/Israel_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
+37. Kuwait <p>
 >![img](/output/countries_uptodate/Kuwait_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-37. Dominican Republic <p>
+38. Dominican Republic <p>
 >![img](/output/countries_uptodate/Dominican Republic_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
-38. Israel <p>
->![img](/output/countries_uptodate/Israel_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
