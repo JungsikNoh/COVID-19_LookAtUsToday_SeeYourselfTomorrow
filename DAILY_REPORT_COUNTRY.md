@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-07-28, COVID-19 Time Series
+## 2020-07-29, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -70,13 +70,13 @@
 
  <p>&nbsp;</p> 
 
-13. Saudi Arabia <p>
->![img](/output/countries_uptodate/Saudi Arabia_3plot_combined.png)
+13. Colombia <p>
+>![img](/output/countries_uptodate/Colombia_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-14. Colombia <p>
->![img](/output/countries_uptodate/Colombia_3plot_combined.png)
+14. Saudi Arabia <p>
+>![img](/output/countries_uptodate/Saudi Arabia_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -110,13 +110,13 @@
 
  <p>&nbsp;</p> 
 
-21. Canada <p>
->![img](/output/countries_uptodate/Canada_3plot_combined.png)
+21. Iraq <p>
+>![img](/output/countries_uptodate/Iraq_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-22. Iraq <p>
->![img](/output/countries_uptodate/Iraq_3plot_combined.png)
+22. Canada <p>
+>![img](/output/countries_uptodate/Canada_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -135,13 +135,13 @@
 
  <p>&nbsp;</p> 
 
-26. China <p>
->![img](/output/countries_uptodate/China_3plot_combined.png)
+26. Kazakhstan <p>
+>![img](/output/countries_uptodate/Kazakhstan_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-27. Kazakhstan <p>
->![img](/output/countries_uptodate/Kazakhstan_3plot_combined.png)
+27. China <p>
+>![img](/output/countries_uptodate/China_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -175,28 +175,28 @@
 
  <p>&nbsp;</p> 
 
-34. Belarus <p>
->![img](/output/countries_uptodate/Belarus_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
-35. Belgium <p>
->![img](/output/countries_uptodate/Belgium_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
-36. Israel <p>
+34. Israel <p>
 >![img](/output/countries_uptodate/Israel_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-37. Kuwait <p>
->![img](/output/countries_uptodate/Kuwait_3plot_combined.png)
+35. Belarus <p>
+>![img](/output/countries_uptodate/Belarus_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-38. Dominican Republic <p>
+36. Belgium <p>
+>![img](/output/countries_uptodate/Belgium_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
+37. Dominican Republic <p>
 >![img](/output/countries_uptodate/Dominican Republic_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
+38. Kuwait <p>
+>![img](/output/countries_uptodate/Kuwait_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
