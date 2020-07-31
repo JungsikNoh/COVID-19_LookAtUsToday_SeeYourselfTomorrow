@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-07-29, COVID-19 Time Series
+## 2020-07-30, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -180,18 +180,18 @@
 
  <p>&nbsp;</p> 
 
-35. Belarus <p>
->![img](/output/countries_uptodate/Belarus_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
-36. Belgium <p>
+35. Belgium <p>
 >![img](/output/countries_uptodate/Belgium_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-37. Dominican Republic <p>
+36. Dominican Republic <p>
 >![img](/output/countries_uptodate/Dominican Republic_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
+37. Belarus <p>
+>![img](/output/countries_uptodate/Belarus_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
