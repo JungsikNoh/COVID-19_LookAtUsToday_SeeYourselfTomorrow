@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-07-30, COVID-19 Time Series
+## 2020-07-31, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -50,28 +50,28 @@
 
  <p>&nbsp;</p> 
 
-9. United Kingdom <p>
->![img](/output/countries_uptodate/United Kingdom_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
-10. Iran <p>
+9. Iran <p>
 >![img](/output/countries_uptodate/Iran_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-11. Spain <p>
+10. United Kingdom <p>
+>![img](/output/countries_uptodate/United Kingdom_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
+11. Colombia <p>
+>![img](/output/countries_uptodate/Colombia_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
+12. Spain <p>
 >![img](/output/countries_uptodate/Spain_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-12. Pakistan <p>
+13. Pakistan <p>
 >![img](/output/countries_uptodate/Pakistan_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
-13. Colombia <p>
->![img](/output/countries_uptodate/Colombia_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -180,13 +180,13 @@
 
  <p>&nbsp;</p> 
 
-35. Belgium <p>
->![img](/output/countries_uptodate/Belgium_3plot_combined.png)
+35. Dominican Republic <p>
+>![img](/output/countries_uptodate/Dominican Republic_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-36. Dominican Republic <p>
->![img](/output/countries_uptodate/Dominican Republic_3plot_combined.png)
+36. Belgium <p>
+>![img](/output/countries_uptodate/Belgium_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
