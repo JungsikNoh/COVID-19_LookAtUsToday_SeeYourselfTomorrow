@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-07-31, COVID-19 Time Series
+## 2020-08-01, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -55,13 +55,13 @@
 
  <p>&nbsp;</p> 
 
-10. United Kingdom <p>
->![img](/output/countries_uptodate/United Kingdom_3plot_combined.png)
+10. Colombia <p>
+>![img](/output/countries_uptodate/Colombia_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-11. Colombia <p>
->![img](/output/countries_uptodate/Colombia_3plot_combined.png)
+11. United Kingdom <p>
+>![img](/output/countries_uptodate/United Kingdom_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -130,23 +130,23 @@
 
  <p>&nbsp;</p> 
 
-25. Egypt <p>
+25. Philippines <p>
+>![img](/output/countries_uptodate/Philippines_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
+26. Egypt <p>
 >![img](/output/countries_uptodate/Egypt_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-26. Kazakhstan <p>
+27. Kazakhstan <p>
 >![img](/output/countries_uptodate/Kazakhstan_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-27. China <p>
+28. China <p>
 >![img](/output/countries_uptodate/China_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
-28. Philippines <p>
->![img](/output/countries_uptodate/Philippines_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -220,13 +220,13 @@
 
  <p>&nbsp;</p> 
 
-43. Portugal <p>
->![img](/output/countries_uptodate/Portugal_3plot_combined.png)
+43. Romania <p>
+>![img](/output/countries_uptodate/Romania_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-44. Romania <p>
->![img](/output/countries_uptodate/Romania_3plot_combined.png)
+44. Portugal <p>
+>![img](/output/countries_uptodate/Portugal_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
