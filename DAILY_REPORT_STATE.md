@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-08-01, COVID-19 Time Series
+## 2020-08-02, COVID-19 Time Series
 # States in the U.S.
 
 
@@ -30,11 +30,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/NJ_3plot_combined.png)
+>![img](/output/states_uptodate/IL_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/IL_3plot_combined.png)
+>![img](/output/states_uptodate/NJ_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -46,11 +46,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/MA_3plot_combined.png)
+>![img](/output/states_uptodate/LA_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/LA_3plot_combined.png)
+>![img](/output/states_uptodate/MA_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -66,7 +66,7 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/MI_3plot_combined.png)
+>![img](/output/states_uptodate/SC_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -74,15 +74,15 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/SC_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
->![img](/output/states_uptodate/MD_3plot_combined.png)
+>![img](/output/states_uptodate/MI_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
 >![img](/output/states_uptodate/AL_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
+>![img](/output/states_uptodate/MD_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -110,11 +110,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/CT_3plot_combined.png)
+>![img](/output/states_uptodate/NV_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/NV_3plot_combined.png)
+>![img](/output/states_uptodate/CT_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -158,11 +158,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/RI_3plot_combined.png)
+>![img](/output/states_uptodate/OR_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/OR_3plot_combined.png)
+>![img](/output/states_uptodate/RI_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -194,11 +194,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/ME_3plot_combined.png)
+>![img](/output/states_uptodate/AK_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/AK_3plot_combined.png)
+>![img](/output/states_uptodate/ME_3plot_combined.png)
 
  <p>&nbsp;</p> 
 

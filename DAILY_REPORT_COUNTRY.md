@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-08-01, COVID-19 Time Series
+## 2020-08-02, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -50,13 +50,13 @@
 
  <p>&nbsp;</p> 
 
-9. Iran <p>
->![img](/output/countries_uptodate/Iran_3plot_combined.png)
+9. Colombia <p>
+>![img](/output/countries_uptodate/Colombia_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-10. Colombia <p>
->![img](/output/countries_uptodate/Colombia_3plot_combined.png)
+10. Iran <p>
+>![img](/output/countries_uptodate/Iran_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -120,13 +120,13 @@
 
  <p>&nbsp;</p> 
 
-23. Qatar <p>
->![img](/output/countries_uptodate/Qatar_3plot_combined.png)
+23. Indonesia <p>
+>![img](/output/countries_uptodate/Indonesia_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-24. Indonesia <p>
->![img](/output/countries_uptodate/Indonesia_3plot_combined.png)
+24. Qatar <p>
+>![img](/output/countries_uptodate/Qatar_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -160,13 +160,13 @@
 
  <p>&nbsp;</p> 
 
-31. Oman <p>
->![img](/output/countries_uptodate/Oman_3plot_combined.png)
+31. Bolivia <p>
+>![img](/output/countries_uptodate/Bolivia_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-32. Bolivia <p>
->![img](/output/countries_uptodate/Bolivia_3plot_combined.png)
+32. Oman <p>
+>![img](/output/countries_uptodate/Oman_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -215,13 +215,13 @@
 
  <p>&nbsp;</p> 
 
-42. Singapore <p>
->![img](/output/countries_uptodate/Singapore_3plot_combined.png)
+42. Romania <p>
+>![img](/output/countries_uptodate/Romania_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-43. Romania <p>
->![img](/output/countries_uptodate/Romania_3plot_combined.png)
+43. Singapore <p>
+>![img](/output/countries_uptodate/Singapore_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -255,8 +255,8 @@
 
  <p>&nbsp;</p> 
 
-50. Armenia <p>
->![img](/output/countries_uptodate/Armenia_3plot_combined.png)
+50. Japan <p>
+>![img](/output/countries_uptodate/Japan_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
