@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-08-02, COVID-19 Time Series
+## 2020-08-03, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -155,13 +155,13 @@
 
  <p>&nbsp;</p> 
 
-30. Sweden <p>
->![img](/output/countries_uptodate/Sweden_3plot_combined.png)
+30. Bolivia <p>
+>![img](/output/countries_uptodate/Bolivia_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-31. Bolivia <p>
->![img](/output/countries_uptodate/Bolivia_3plot_combined.png)
+31. Sweden <p>
+>![img](/output/countries_uptodate/Sweden_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -190,8 +190,8 @@
 
  <p>&nbsp;</p> 
 
-37. Belarus <p>
->![img](/output/countries_uptodate/Belarus_3plot_combined.png)
+37. Panama <p>
+>![img](/output/countries_uptodate/Panama_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -200,8 +200,8 @@
 
  <p>&nbsp;</p> 
 
-39. Panama <p>
->![img](/output/countries_uptodate/Panama_3plot_combined.png)
+39. Belarus <p>
+>![img](/output/countries_uptodate/Belarus_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
