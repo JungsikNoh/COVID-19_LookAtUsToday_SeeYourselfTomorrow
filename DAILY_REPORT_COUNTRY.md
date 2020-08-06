@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-08-04, COVID-19 Time Series
+## 2020-08-05, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -60,13 +60,13 @@
 
  <p>&nbsp;</p> 
 
-11. United Kingdom <p>
->![img](/output/countries_uptodate/United Kingdom_3plot_combined.png)
+11. Spain <p>
+>![img](/output/countries_uptodate/Spain_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-12. Spain <p>
->![img](/output/countries_uptodate/Spain_3plot_combined.png)
+12. United Kingdom <p>
+>![img](/output/countries_uptodate/United Kingdom_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -95,13 +95,13 @@
 
  <p>&nbsp;</p> 
 
-18. France <p>
->![img](/output/countries_uptodate/France_3plot_combined.png)
+18. Argentina <p>
+>![img](/output/countries_uptodate/Argentina_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-19. Argentina <p>
->![img](/output/countries_uptodate/Argentina_3plot_combined.png)
+19. France <p>
+>![img](/output/countries_uptodate/France_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -145,13 +145,13 @@
 
  <p>&nbsp;</p> 
 
-28. China <p>
->![img](/output/countries_uptodate/China_3plot_combined.png)
+28. Ecuador <p>
+>![img](/output/countries_uptodate/Ecuador_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-29. Ecuador <p>
->![img](/output/countries_uptodate/Ecuador_3plot_combined.png)
+29. China <p>
+>![img](/output/countries_uptodate/China_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -210,13 +210,13 @@
 
  <p>&nbsp;</p> 
 
-41. Netherlands <p>
->![img](/output/countries_uptodate/Netherlands_3plot_combined.png)
+41. Romania <p>
+>![img](/output/countries_uptodate/Romania_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-42. Romania <p>
->![img](/output/countries_uptodate/Romania_3plot_combined.png)
+42. Netherlands <p>
+>![img](/output/countries_uptodate/Netherlands_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -240,23 +240,23 @@
 
  <p>&nbsp;</p> 
 
-47. Nigeria <p>
->![img](/output/countries_uptodate/Nigeria_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
-48. Honduras <p>
+47. Honduras <p>
 >![img](/output/countries_uptodate/Honduras_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-49. Bahrain <p>
->![img](/output/countries_uptodate/Bahrain_3plot_combined.png)
+48. Nigeria <p>
+>![img](/output/countries_uptodate/Nigeria_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-50. Japan <p>
+49. Japan <p>
 >![img](/output/countries_uptodate/Japan_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
+50. Bahrain <p>
+>![img](/output/countries_uptodate/Bahrain_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
