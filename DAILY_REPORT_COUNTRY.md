@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-08-06, COVID-19 Time Series
+## 2020-08-07, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -115,18 +115,18 @@
 
  <p>&nbsp;</p> 
 
-22. Canada <p>
->![img](/output/countries_uptodate/Canada_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
-23. Philippines <p>
+22. Philippines <p>
 >![img](/output/countries_uptodate/Philippines_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-24. Indonesia <p>
+23. Indonesia <p>
 >![img](/output/countries_uptodate/Indonesia_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
+24. Canada <p>
+>![img](/output/countries_uptodate/Canada_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -220,13 +220,13 @@
 
  <p>&nbsp;</p> 
 
-43. Singapore <p>
->![img](/output/countries_uptodate/Singapore_3plot_combined.png)
+43. Guatemala <p>
+>![img](/output/countries_uptodate/Guatemala_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-44. Guatemala <p>
->![img](/output/countries_uptodate/Guatemala_3plot_combined.png)
+44. Singapore <p>
+>![img](/output/countries_uptodate/Singapore_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -245,13 +245,13 @@
 
  <p>&nbsp;</p> 
 
-48. Nigeria <p>
->![img](/output/countries_uptodate/Nigeria_3plot_combined.png)
+48. Japan <p>
+>![img](/output/countries_uptodate/Japan_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-49. Japan <p>
->![img](/output/countries_uptodate/Japan_3plot_combined.png)
+49. Nigeria <p>
+>![img](/output/countries_uptodate/Nigeria_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
