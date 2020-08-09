@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-08-07, COVID-19 Time Series
+## 2020-08-08, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -45,13 +45,13 @@
 
  <p>&nbsp;</p> 
 
-8. Chile <p>
->![img](/output/countries_uptodate/Chile_3plot_combined.png)
+8. Colombia <p>
+>![img](/output/countries_uptodate/Colombia_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-9. Colombia <p>
->![img](/output/countries_uptodate/Colombia_3plot_combined.png)
+9. Chile <p>
+>![img](/output/countries_uptodate/Chile_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -90,13 +90,13 @@
 
  <p>&nbsp;</p> 
 
-17. Turkey <p>
->![img](/output/countries_uptodate/Turkey_3plot_combined.png)
+17. Argentina <p>
+>![img](/output/countries_uptodate/Argentina_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-18. Argentina <p>
->![img](/output/countries_uptodate/Argentina_3plot_combined.png)
+18. Turkey <p>
+>![img](/output/countries_uptodate/Turkey_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -150,33 +150,33 @@
 
  <p>&nbsp;</p> 
 
-29. China <p>
->![img](/output/countries_uptodate/China_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
-30. Bolivia <p>
+29. Bolivia <p>
 >![img](/output/countries_uptodate/Bolivia_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-31. Sweden <p>
->![img](/output/countries_uptodate/Sweden_3plot_combined.png)
+30. China <p>
+>![img](/output/countries_uptodate/China_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-32. Oman <p>
->![img](/output/countries_uptodate/Oman_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
-33. Israel <p>
+31. Israel <p>
 >![img](/output/countries_uptodate/Israel_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-34. Ukraine <p>
+32. Sweden <p>
+>![img](/output/countries_uptodate/Sweden_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
+33. Ukraine <p>
 >![img](/output/countries_uptodate/Ukraine_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
+34. Oman <p>
+>![img](/output/countries_uptodate/Oman_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -185,13 +185,13 @@
 
  <p>&nbsp;</p> 
 
-36. Belgium <p>
->![img](/output/countries_uptodate/Belgium_3plot_combined.png)
+36. Panama <p>
+>![img](/output/countries_uptodate/Panama_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-37. Panama <p>
->![img](/output/countries_uptodate/Panama_3plot_combined.png)
+37. Belgium <p>
+>![img](/output/countries_uptodate/Belgium_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -240,13 +240,13 @@
 
  <p>&nbsp;</p> 
 
-47. Honduras <p>
->![img](/output/countries_uptodate/Honduras_3plot_combined.png)
+47. Japan <p>
+>![img](/output/countries_uptodate/Japan_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-48. Japan <p>
->![img](/output/countries_uptodate/Japan_3plot_combined.png)
+48. Honduras <p>
+>![img](/output/countries_uptodate/Honduras_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
