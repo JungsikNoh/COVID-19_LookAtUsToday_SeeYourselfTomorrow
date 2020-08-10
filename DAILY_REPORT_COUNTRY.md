@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-08-08, COVID-19 Time Series
+## 2020-08-09, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -165,13 +165,13 @@
 
  <p>&nbsp;</p> 
 
-32. Sweden <p>
->![img](/output/countries_uptodate/Sweden_3plot_combined.png)
+32. Ukraine <p>
+>![img](/output/countries_uptodate/Ukraine_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-33. Ukraine <p>
->![img](/output/countries_uptodate/Ukraine_3plot_combined.png)
+33. Sweden <p>
+>![img](/output/countries_uptodate/Sweden_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
