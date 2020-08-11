@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-08-09, COVID-19 Time Series
+## 2020-08-10, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -85,13 +85,13 @@
 
  <p>&nbsp;</p> 
 
-16. Italy <p>
->![img](/output/countries_uptodate/Italy_3plot_combined.png)
+16. Argentina <p>
+>![img](/output/countries_uptodate/Argentina_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-17. Argentina <p>
->![img](/output/countries_uptodate/Argentina_3plot_combined.png)
+17. Italy <p>
+>![img](/output/countries_uptodate/Italy_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
