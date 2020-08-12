@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-08-10, COVID-19 Time Series
+## 2020-08-11, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -205,13 +205,13 @@
 
  <p>&nbsp;</p> 
 
-40. United Arab Emirates <p>
->![img](/output/countries_uptodate/United Arab Emirates_3plot_combined.png)
+40. Romania <p>
+>![img](/output/countries_uptodate/Romania_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-41. Romania <p>
->![img](/output/countries_uptodate/Romania_3plot_combined.png)
+41. United Arab Emirates <p>
+>![img](/output/countries_uptodate/United Arab Emirates_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -230,13 +230,13 @@
 
  <p>&nbsp;</p> 
 
-45. Portugal <p>
->![img](/output/countries_uptodate/Portugal_3plot_combined.png)
+45. Poland <p>
+>![img](/output/countries_uptodate/Poland_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-46. Poland <p>
->![img](/output/countries_uptodate/Poland_3plot_combined.png)
+46. Portugal <p>
+>![img](/output/countries_uptodate/Portugal_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
