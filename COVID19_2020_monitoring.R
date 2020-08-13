@@ -14,7 +14,7 @@
 ## source functions 
 t1 = Sys.time()
 #curDate = Sys.Date(); print(curDate)
-curDate = '2020-08-11'
+curDate = '2020-08-12'
 
 #setwd('C:/githubClone/COVID-19_LookAtUsToday_SeeYourselfTomorrow')
 print(getwd())

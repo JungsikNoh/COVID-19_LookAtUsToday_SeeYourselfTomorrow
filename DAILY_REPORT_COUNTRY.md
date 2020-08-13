@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-08-11, COVID-19 Time Series
+## 2020-08-12, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -80,13 +80,13 @@
 
  <p>&nbsp;</p> 
 
-15. Bangladesh <p>
->![img](/output/countries_uptodate/Bangladesh_3plot_combined.png)
+15. Argentina <p>
+>![img](/output/countries_uptodate/Argentina_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-16. Argentina <p>
->![img](/output/countries_uptodate/Argentina_3plot_combined.png)
+16. Bangladesh <p>
+>![img](/output/countries_uptodate/Bangladesh_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -140,13 +140,13 @@
 
  <p>&nbsp;</p> 
 
-27. Egypt <p>
->![img](/output/countries_uptodate/Egypt_3plot_combined.png)
+27. Ecuador <p>
+>![img](/output/countries_uptodate/Ecuador_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-28. Ecuador <p>
->![img](/output/countries_uptodate/Ecuador_3plot_combined.png)
+28. Egypt <p>
+>![img](/output/countries_uptodate/Egypt_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
