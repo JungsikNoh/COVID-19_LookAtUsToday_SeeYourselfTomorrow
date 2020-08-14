@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-08-12, COVID-19 Time Series
+## 2020-08-13, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -55,13 +55,13 @@
 
  <p>&nbsp;</p> 
 
-10. Iran <p>
->![img](/output/countries_uptodate/Iran_3plot_combined.png)
+10. Spain <p>
+>![img](/output/countries_uptodate/Spain_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-11. Spain <p>
->![img](/output/countries_uptodate/Spain_3plot_combined.png)
+11. Iran <p>
+>![img](/output/countries_uptodate/Iran_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -145,23 +145,23 @@
 
  <p>&nbsp;</p> 
 
-28. Egypt <p>
->![img](/output/countries_uptodate/Egypt_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
-29. Bolivia <p>
+28. Bolivia <p>
 >![img](/output/countries_uptodate/Bolivia_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-30. China <p>
->![img](/output/countries_uptodate/China_3plot_combined.png)
+29. Egypt <p>
+>![img](/output/countries_uptodate/Egypt_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-31. Israel <p>
+30. Israel <p>
 >![img](/output/countries_uptodate/Israel_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
+31. China <p>
+>![img](/output/countries_uptodate/China_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -175,13 +175,13 @@
 
  <p>&nbsp;</p> 
 
-34. Oman <p>
->![img](/output/countries_uptodate/Oman_3plot_combined.png)
+34. Dominican Republic <p>
+>![img](/output/countries_uptodate/Dominican Republic_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-35. Dominican Republic <p>
->![img](/output/countries_uptodate/Dominican Republic_3plot_combined.png)
+35. Oman <p>
+>![img](/output/countries_uptodate/Oman_3plot_combined.png)
 
  <p>&nbsp;</p> 
 

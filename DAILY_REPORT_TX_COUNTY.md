@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-08-12, COVID-19 Time Series
+## 2020-08-13, COVID-19 Time Series
 # TX counties (top 30)
 
 
