@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-08-13, COVID-19 Time Series
+## 2020-08-14, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -35,13 +35,13 @@
 
  <p>&nbsp;</p> 
 
-6. Mexico <p>
->![img](/output/countries_uptodate/Mexico_3plot_combined.png)
+6. Peru <p>
+>![img](/output/countries_uptodate/Peru_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-7. Peru <p>
->![img](/output/countries_uptodate/Peru_3plot_combined.png)
+7. Mexico <p>
+>![img](/output/countries_uptodate/Mexico_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -160,23 +160,23 @@
 
  <p>&nbsp;</p> 
 
-31. China <p>
->![img](/output/countries_uptodate/China_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
-32. Ukraine <p>
+31. Ukraine <p>
 >![img](/output/countries_uptodate/Ukraine_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-33. Sweden <p>
->![img](/output/countries_uptodate/Sweden_3plot_combined.png)
+32. China <p>
+>![img](/output/countries_uptodate/China_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-34. Dominican Republic <p>
+33. Dominican Republic <p>
 >![img](/output/countries_uptodate/Dominican Republic_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
+34. Sweden <p>
+>![img](/output/countries_uptodate/Sweden_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -235,13 +235,13 @@
 
  <p>&nbsp;</p> 
 
-46. Portugal <p>
->![img](/output/countries_uptodate/Portugal_3plot_combined.png)
+46. Japan <p>
+>![img](/output/countries_uptodate/Japan_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-47. Japan <p>
->![img](/output/countries_uptodate/Japan_3plot_combined.png)
+47. Portugal <p>
+>![img](/output/countries_uptodate/Portugal_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
