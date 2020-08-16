@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-08-14, COVID-19 Time Series
+## 2020-08-15, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -35,13 +35,13 @@
 
  <p>&nbsp;</p> 
 
-6. Peru <p>
->![img](/output/countries_uptodate/Peru_3plot_combined.png)
+6. Mexico <p>
+>![img](/output/countries_uptodate/Mexico_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-7. Mexico <p>
->![img](/output/countries_uptodate/Mexico_3plot_combined.png)
+7. Peru <p>
+>![img](/output/countries_uptodate/Peru_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -75,13 +75,13 @@
 
  <p>&nbsp;</p> 
 
-14. Pakistan <p>
->![img](/output/countries_uptodate/Pakistan_3plot_combined.png)
+14. Argentina <p>
+>![img](/output/countries_uptodate/Argentina_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-15. Argentina <p>
->![img](/output/countries_uptodate/Argentina_3plot_combined.png)
+15. Pakistan <p>
+>![img](/output/countries_uptodate/Pakistan_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -200,13 +200,13 @@
 
  <p>&nbsp;</p> 
 
-39. Belarus <p>
->![img](/output/countries_uptodate/Belarus_3plot_combined.png)
+39. Romania <p>
+>![img](/output/countries_uptodate/Romania_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-40. Romania <p>
->![img](/output/countries_uptodate/Romania_3plot_combined.png)
+40. Belarus <p>
+>![img](/output/countries_uptodate/Belarus_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -225,13 +225,13 @@
 
  <p>&nbsp;</p> 
 
-44. Singapore <p>
->![img](/output/countries_uptodate/Singapore_3plot_combined.png)
+44. Poland <p>
+>![img](/output/countries_uptodate/Poland_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-45. Poland <p>
->![img](/output/countries_uptodate/Poland_3plot_combined.png)
+45. Singapore <p>
+>![img](/output/countries_uptodate/Singapore_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
