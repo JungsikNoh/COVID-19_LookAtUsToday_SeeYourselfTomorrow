@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-08-15, COVID-19 Time Series
+## 2020-08-16, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -35,13 +35,13 @@
 
  <p>&nbsp;</p> 
 
-6. Mexico <p>
->![img](/output/countries_uptodate/Mexico_3plot_combined.png)
+6. Peru <p>
+>![img](/output/countries_uptodate/Peru_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-7. Peru <p>
->![img](/output/countries_uptodate/Peru_3plot_combined.png)
+7. Mexico <p>
+>![img](/output/countries_uptodate/Mexico_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -55,13 +55,13 @@
 
  <p>&nbsp;</p> 
 
-10. Spain <p>
->![img](/output/countries_uptodate/Spain_3plot_combined.png)
+10. Iran <p>
+>![img](/output/countries_uptodate/Iran_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-11. Iran <p>
->![img](/output/countries_uptodate/Iran_3plot_combined.png)
+11. Spain <p>
+>![img](/output/countries_uptodate/Spain_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -155,13 +155,13 @@
 
  <p>&nbsp;</p> 
 
-30. Israel <p>
->![img](/output/countries_uptodate/Israel_3plot_combined.png)
+30. Ukraine <p>
+>![img](/output/countries_uptodate/Ukraine_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-31. Ukraine <p>
->![img](/output/countries_uptodate/Ukraine_3plot_combined.png)
+31. Israel <p>
+>![img](/output/countries_uptodate/Israel_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -230,13 +230,13 @@
 
  <p>&nbsp;</p> 
 
-45. Singapore <p>
->![img](/output/countries_uptodate/Singapore_3plot_combined.png)
+45. Japan <p>
+>![img](/output/countries_uptodate/Japan_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-46. Japan <p>
->![img](/output/countries_uptodate/Japan_3plot_combined.png)
+46. Singapore <p>
+>![img](/output/countries_uptodate/Singapore_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
