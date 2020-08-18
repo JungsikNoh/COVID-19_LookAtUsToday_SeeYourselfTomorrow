@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-08-16, COVID-19 Time Series
+## 2020-08-17, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -55,13 +55,13 @@
 
  <p>&nbsp;</p> 
 
-10. Iran <p>
->![img](/output/countries_uptodate/Iran_3plot_combined.png)
+10. Spain <p>
+>![img](/output/countries_uptodate/Spain_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-11. Spain <p>
->![img](/output/countries_uptodate/Spain_3plot_combined.png)
+11. Iran <p>
+>![img](/output/countries_uptodate/Iran_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
