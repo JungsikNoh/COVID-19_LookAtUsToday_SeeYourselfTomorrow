@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-08-17, COVID-19 Time Series
+## 2020-08-18, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -70,13 +70,13 @@
 
  <p>&nbsp;</p> 
 
-13. Saudi Arabia <p>
->![img](/output/countries_uptodate/Saudi Arabia_3plot_combined.png)
+13. Argentina <p>
+>![img](/output/countries_uptodate/Argentina_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-14. Argentina <p>
->![img](/output/countries_uptodate/Argentina_3plot_combined.png)
+14. Saudi Arabia <p>
+>![img](/output/countries_uptodate/Saudi Arabia_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -140,13 +140,13 @@
 
  <p>&nbsp;</p> 
 
-27. Ecuador <p>
->![img](/output/countries_uptodate/Ecuador_3plot_combined.png)
+27. Bolivia <p>
+>![img](/output/countries_uptodate/Bolivia_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-28. Bolivia <p>
->![img](/output/countries_uptodate/Bolivia_3plot_combined.png)
+28. Ecuador <p>
+>![img](/output/countries_uptodate/Ecuador_3plot_combined.png)
 
  <p>&nbsp;</p> 
 

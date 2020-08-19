@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-08-17, COVID-19 Time Series
+## 2020-08-18, COVID-19 Time Series
 # TX counties (top 30)
 
 
@@ -102,11 +102,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Potter_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Ector_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Ector_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Potter_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
