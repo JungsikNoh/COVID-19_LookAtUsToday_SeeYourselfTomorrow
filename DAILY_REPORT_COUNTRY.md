@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-08-18, COVID-19 Time Series
+## 2020-08-19, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -135,33 +135,33 @@
 
  <p>&nbsp;</p> 
 
-26. Kazakhstan <p>
->![img](/output/countries_uptodate/Kazakhstan_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
-27. Bolivia <p>
+26. Bolivia <p>
 >![img](/output/countries_uptodate/Bolivia_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-28. Ecuador <p>
+27. Ecuador <p>
 >![img](/output/countries_uptodate/Ecuador_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-29. Egypt <p>
->![img](/output/countries_uptodate/Egypt_3plot_combined.png)
+28. Kazakhstan <p>
+>![img](/output/countries_uptodate/Kazakhstan_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-30. Ukraine <p>
+29. Ukraine <p>
 >![img](/output/countries_uptodate/Ukraine_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-31. Israel <p>
+30. Israel <p>
 >![img](/output/countries_uptodate/Israel_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
+31. Egypt <p>
+>![img](/output/countries_uptodate/Egypt_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -180,13 +180,13 @@
 
  <p>&nbsp;</p> 
 
-35. Oman <p>
->![img](/output/countries_uptodate/Oman_3plot_combined.png)
+35. Panama <p>
+>![img](/output/countries_uptodate/Panama_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-36. Panama <p>
->![img](/output/countries_uptodate/Panama_3plot_combined.png)
+36. Oman <p>
+>![img](/output/countries_uptodate/Oman_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -215,23 +215,23 @@
 
  <p>&nbsp;</p> 
 
-42. Netherlands <p>
->![img](/output/countries_uptodate/Netherlands_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
-43. Guatemala <p>
+42. Guatemala <p>
 >![img](/output/countries_uptodate/Guatemala_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-44. Poland <p>
->![img](/output/countries_uptodate/Poland_3plot_combined.png)
+43. Netherlands <p>
+>![img](/output/countries_uptodate/Netherlands_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-45. Japan <p>
+44. Japan <p>
 >![img](/output/countries_uptodate/Japan_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
+45. Poland <p>
+>![img](/output/countries_uptodate/Poland_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
