@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-08-19, COVID-19 Time Series
+## 2020-08-20, COVID-19 Time Series
 # TX counties (top 30)
 
 
@@ -70,11 +70,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Williamson_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Montgomery_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Montgomery_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Williamson_3plot_combined.png)
 
  <p>&nbsp;</p> 
 

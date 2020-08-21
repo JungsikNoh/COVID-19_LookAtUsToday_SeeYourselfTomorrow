@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-08-19, COVID-19 Time Series
+## 2020-08-20, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -210,13 +210,13 @@
 
  <p>&nbsp;</p> 
 
-41. United Arab Emirates <p>
->![img](/output/countries_uptodate/United Arab Emirates_3plot_combined.png)
+41. Guatemala <p>
+>![img](/output/countries_uptodate/Guatemala_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-42. Guatemala <p>
->![img](/output/countries_uptodate/Guatemala_3plot_combined.png)
+42. United Arab Emirates <p>
+>![img](/output/countries_uptodate/United Arab Emirates_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
