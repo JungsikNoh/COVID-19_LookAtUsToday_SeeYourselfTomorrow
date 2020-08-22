@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-08-20, COVID-19 Time Series
+## 2020-08-21, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -65,13 +65,13 @@
 
  <p>&nbsp;</p> 
 
-12. United Kingdom <p>
->![img](/output/countries_uptodate/United Kingdom_3plot_combined.png)
+12. Argentina <p>
+>![img](/output/countries_uptodate/Argentina_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-13. Argentina <p>
->![img](/output/countries_uptodate/Argentina_3plot_combined.png)
+13. United Kingdom <p>
+>![img](/output/countries_uptodate/United Kingdom_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -90,18 +90,18 @@
 
  <p>&nbsp;</p> 
 
-17. Italy <p>
+17. France <p>
+>![img](/output/countries_uptodate/France_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
+18. Italy <p>
 >![img](/output/countries_uptodate/Italy_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-18. Turkey <p>
+19. Turkey <p>
 >![img](/output/countries_uptodate/Turkey_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
-19. France <p>
->![img](/output/countries_uptodate/France_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -165,13 +165,13 @@
 
  <p>&nbsp;</p> 
 
-32. China <p>
->![img](/output/countries_uptodate/China_3plot_combined.png)
+32. Dominican Republic <p>
+>![img](/output/countries_uptodate/Dominican Republic_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-33. Dominican Republic <p>
->![img](/output/countries_uptodate/Dominican Republic_3plot_combined.png)
+33. China <p>
+>![img](/output/countries_uptodate/China_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -255,8 +255,8 @@
 
  <p>&nbsp;</p> 
 
-50. Bahrain <p>
->![img](/output/countries_uptodate/Bahrain_3plot_combined.png)
+50. Morocco <p>
+>![img](/output/countries_uptodate/Morocco_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
