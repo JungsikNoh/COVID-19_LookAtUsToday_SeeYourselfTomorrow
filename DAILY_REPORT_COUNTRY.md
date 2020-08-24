@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-08-22, COVID-19 Time Series
+## 2020-08-23, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -175,13 +175,13 @@
 
  <p>&nbsp;</p> 
 
-34. Sweden <p>
->![img](/output/countries_uptodate/Sweden_3plot_combined.png)
+34. Panama <p>
+>![img](/output/countries_uptodate/Panama_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-35. Panama <p>
->![img](/output/countries_uptodate/Panama_3plot_combined.png)
+35. Sweden <p>
+>![img](/output/countries_uptodate/Sweden_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -250,13 +250,13 @@
 
  <p>&nbsp;</p> 
 
-49. Nigeria <p>
->![img](/output/countries_uptodate/Nigeria_3plot_combined.png)
+49. Morocco <p>
+>![img](/output/countries_uptodate/Morocco_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-50. Morocco <p>
->![img](/output/countries_uptodate/Morocco_3plot_combined.png)
+50. Nigeria <p>
+>![img](/output/countries_uptodate/Nigeria_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
