@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-08-21, COVID-19 Time Series
+## 2020-08-22, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -80,13 +80,13 @@
 
  <p>&nbsp;</p> 
 
-15. Pakistan <p>
->![img](/output/countries_uptodate/Pakistan_3plot_combined.png)
+15. Bangladesh <p>
+>![img](/output/countries_uptodate/Bangladesh_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-16. Bangladesh <p>
->![img](/output/countries_uptodate/Bangladesh_3plot_combined.png)
+16. Pakistan <p>
+>![img](/output/countries_uptodate/Pakistan_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -145,13 +145,13 @@
 
  <p>&nbsp;</p> 
 
-28. Kazakhstan <p>
->![img](/output/countries_uptodate/Kazakhstan_3plot_combined.png)
+28. Ukraine <p>
+>![img](/output/countries_uptodate/Ukraine_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-29. Ukraine <p>
->![img](/output/countries_uptodate/Ukraine_3plot_combined.png)
+29. Kazakhstan <p>
+>![img](/output/countries_uptodate/Kazakhstan_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
