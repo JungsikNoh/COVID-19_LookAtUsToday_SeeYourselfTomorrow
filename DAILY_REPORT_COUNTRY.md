@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-08-23, COVID-19 Time Series
+## 2020-08-24, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -50,13 +50,13 @@
 
  <p>&nbsp;</p> 
 
-9. Chile <p>
->![img](/output/countries_uptodate/Chile_3plot_combined.png)
+9. Spain <p>
+>![img](/output/countries_uptodate/Spain_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-10. Spain <p>
->![img](/output/countries_uptodate/Spain_3plot_combined.png)
+10. Chile <p>
+>![img](/output/countries_uptodate/Chile_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -140,13 +140,13 @@
 
  <p>&nbsp;</p> 
 
-27. Ecuador <p>
->![img](/output/countries_uptodate/Ecuador_3plot_combined.png)
+27. Ukraine <p>
+>![img](/output/countries_uptodate/Ukraine_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-28. Ukraine <p>
->![img](/output/countries_uptodate/Ukraine_3plot_combined.png)
+28. Ecuador <p>
+>![img](/output/countries_uptodate/Ecuador_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
