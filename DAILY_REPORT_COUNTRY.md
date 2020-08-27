@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-08-24, COVID-19 Time Series
+## 2020-08-26, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -60,13 +60,13 @@
 
  <p>&nbsp;</p> 
 
-11. Iran <p>
->![img](/output/countries_uptodate/Iran_3plot_combined.png)
+11. Argentina <p>
+>![img](/output/countries_uptodate/Argentina_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-12. Argentina <p>
->![img](/output/countries_uptodate/Argentina_3plot_combined.png)
+12. Iran <p>
+>![img](/output/countries_uptodate/Iran_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -135,13 +135,13 @@
 
  <p>&nbsp;</p> 
 
-26. Bolivia <p>
->![img](/output/countries_uptodate/Bolivia_3plot_combined.png)
+26. Ukraine <p>
+>![img](/output/countries_uptodate/Ukraine_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-27. Ukraine <p>
->![img](/output/countries_uptodate/Ukraine_3plot_combined.png)
+27. Bolivia <p>
+>![img](/output/countries_uptodate/Bolivia_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -150,13 +150,13 @@
 
  <p>&nbsp;</p> 
 
-29. Kazakhstan <p>
->![img](/output/countries_uptodate/Kazakhstan_3plot_combined.png)
+29. Israel <p>
+>![img](/output/countries_uptodate/Israel_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-30. Israel <p>
->![img](/output/countries_uptodate/Israel_3plot_combined.png)
+30. Kazakhstan <p>
+>![img](/output/countries_uptodate/Kazakhstan_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -215,13 +215,13 @@
 
  <p>&nbsp;</p> 
 
-42. United Arab Emirates <p>
->![img](/output/countries_uptodate/United Arab Emirates_3plot_combined.png)
+42. Netherlands <p>
+>![img](/output/countries_uptodate/Netherlands_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-43. Netherlands <p>
->![img](/output/countries_uptodate/Netherlands_3plot_combined.png)
+43. United Arab Emirates <p>
+>![img](/output/countries_uptodate/United Arab Emirates_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -235,18 +235,18 @@
 
  <p>&nbsp;</p> 
 
-46. Singapore <p>
+46. Honduras <p>
+>![img](/output/countries_uptodate/Honduras_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
+47. Singapore <p>
 >![img](/output/countries_uptodate/Singapore_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-47. Portugal <p>
+48. Portugal <p>
 >![img](/output/countries_uptodate/Portugal_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
-48. Honduras <p>
->![img](/output/countries_uptodate/Honduras_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
