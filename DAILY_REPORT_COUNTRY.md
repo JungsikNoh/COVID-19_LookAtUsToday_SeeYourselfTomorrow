@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-08-26, COVID-19 Time Series
+## 2020-08-27, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -40,13 +40,13 @@
 
  <p>&nbsp;</p> 
 
-7. Mexico <p>
->![img](/output/countries_uptodate/Mexico_3plot_combined.png)
+7. Colombia <p>
+>![img](/output/countries_uptodate/Colombia_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-8. Colombia <p>
->![img](/output/countries_uptodate/Colombia_3plot_combined.png)
+8. Mexico <p>
+>![img](/output/countries_uptodate/Mexico_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -95,13 +95,13 @@
 
  <p>&nbsp;</p> 
 
-18. Italy <p>
->![img](/output/countries_uptodate/Italy_3plot_combined.png)
+18. Turkey <p>
+>![img](/output/countries_uptodate/Turkey_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-19. Turkey <p>
->![img](/output/countries_uptodate/Turkey_3plot_combined.png)
+19. Italy <p>
+>![img](/output/countries_uptodate/Italy_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -170,23 +170,23 @@
 
  <p>&nbsp;</p> 
 
-33. China <p>
->![img](/output/countries_uptodate/China_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
-34. Panama <p>
+33. Panama <p>
 >![img](/output/countries_uptodate/Panama_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-35. Sweden <p>
->![img](/output/countries_uptodate/Sweden_3plot_combined.png)
+34. China <p>
+>![img](/output/countries_uptodate/China_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-36. Oman <p>
+35. Oman <p>
 >![img](/output/countries_uptodate/Oman_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
+36. Sweden <p>
+>![img](/output/countries_uptodate/Sweden_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -195,23 +195,23 @@
 
  <p>&nbsp;</p> 
 
-38. Kuwait <p>
->![img](/output/countries_uptodate/Kuwait_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
-39. Romania <p>
+38. Romania <p>
 >![img](/output/countries_uptodate/Romania_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-40. Belarus <p>
->![img](/output/countries_uptodate/Belarus_3plot_combined.png)
+39. Kuwait <p>
+>![img](/output/countries_uptodate/Kuwait_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-41. Guatemala <p>
+40. Guatemala <p>
 >![img](/output/countries_uptodate/Guatemala_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
+41. Belarus <p>
+>![img](/output/countries_uptodate/Belarus_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -240,8 +240,8 @@
 
  <p>&nbsp;</p> 
 
-47. Singapore <p>
->![img](/output/countries_uptodate/Singapore_3plot_combined.png)
+47. Morocco <p>
+>![img](/output/countries_uptodate/Morocco_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -250,8 +250,8 @@
 
  <p>&nbsp;</p> 
 
-49. Morocco <p>
->![img](/output/countries_uptodate/Morocco_3plot_combined.png)
+49. Singapore <p>
+>![img](/output/countries_uptodate/Singapore_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
