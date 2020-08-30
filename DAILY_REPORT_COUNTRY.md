@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-08-28, COVID-19 Time Series
+## 2020-08-29, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -130,13 +130,13 @@
 
  <p>&nbsp;</p> 
 
-25. Qatar <p>
->![img](/output/countries_uptodate/Qatar_3plot_combined.png)
+25. Ukraine <p>
+>![img](/output/countries_uptodate/Ukraine_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-26. Ukraine <p>
->![img](/output/countries_uptodate/Ukraine_3plot_combined.png)
+26. Qatar <p>
+>![img](/output/countries_uptodate/Qatar_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -145,13 +145,13 @@
 
  <p>&nbsp;</p> 
 
-28. Ecuador <p>
->![img](/output/countries_uptodate/Ecuador_3plot_combined.png)
+28. Israel <p>
+>![img](/output/countries_uptodate/Israel_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-29. Israel <p>
->![img](/output/countries_uptodate/Israel_3plot_combined.png)
+29. Ecuador <p>
+>![img](/output/countries_uptodate/Ecuador_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -180,28 +180,28 @@
 
  <p>&nbsp;</p> 
 
-35. Oman <p>
->![img](/output/countries_uptodate/Oman_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
-36. Romania <p>
+35. Romania <p>
 >![img](/output/countries_uptodate/Romania_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-37. Sweden <p>
->![img](/output/countries_uptodate/Sweden_3plot_combined.png)
+36. Oman <p>
+>![img](/output/countries_uptodate/Oman_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-38. Belgium <p>
+37. Belgium <p>
 >![img](/output/countries_uptodate/Belgium_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-39. Kuwait <p>
+38. Kuwait <p>
 >![img](/output/countries_uptodate/Kuwait_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
+39. Sweden <p>
+>![img](/output/countries_uptodate/Sweden_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -235,13 +235,13 @@
 
  <p>&nbsp;</p> 
 
-46. Honduras <p>
->![img](/output/countries_uptodate/Honduras_3plot_combined.png)
+46. Morocco <p>
+>![img](/output/countries_uptodate/Morocco_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-47. Morocco <p>
->![img](/output/countries_uptodate/Morocco_3plot_combined.png)
+47. Honduras <p>
+>![img](/output/countries_uptodate/Honduras_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
