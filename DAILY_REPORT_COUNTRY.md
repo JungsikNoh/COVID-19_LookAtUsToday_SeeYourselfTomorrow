@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-08-29, COVID-19 Time Series
+## 2020-08-30, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -85,13 +85,13 @@
 
  <p>&nbsp;</p> 
 
-16. Pakistan <p>
->![img](/output/countries_uptodate/Pakistan_3plot_combined.png)
+16. France <p>
+>![img](/output/countries_uptodate/France_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-17. France <p>
->![img](/output/countries_uptodate/France_3plot_combined.png)
+17. Pakistan <p>
+>![img](/output/countries_uptodate/Pakistan_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
