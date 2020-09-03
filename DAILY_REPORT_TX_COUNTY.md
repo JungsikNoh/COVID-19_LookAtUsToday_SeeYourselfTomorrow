@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-08-30, COVID-19 Time Series
+## 2020-09-01, COVID-19 Time Series
 # TX counties (top 30)
 
 
@@ -50,11 +50,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Collin_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Webb_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Webb_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Collin_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -110,11 +110,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Victoria_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Ellis_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Ellis_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Victoria_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -122,11 +122,11 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Maverick_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Smith_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
->![img](/output/TX_counties_uptodate/Midland_3plot_combined.png)
+>![img](/output/TX_counties_uptodate/Maverick_3plot_combined.png)
 
  <p>&nbsp;</p> 
 

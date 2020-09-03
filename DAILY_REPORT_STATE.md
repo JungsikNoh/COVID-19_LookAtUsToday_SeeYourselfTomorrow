@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-08-30, COVID-19 Time Series
+## 2020-09-01, COVID-19 Time Series
 # States in the U.S.
 
 
@@ -58,10 +58,6 @@
 
  <p>&nbsp;</p> 
 
->![img](/output/states_uptodate/MA_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
 >![img](/output/states_uptodate/AL_3plot_combined.png)
 
  <p>&nbsp;</p> 
@@ -71,6 +67,10 @@
  <p>&nbsp;</p> 
 
 >![img](/output/states_uptodate/VA_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
+>![img](/output/states_uptodate/MA_3plot_combined.png)
 
  <p>&nbsp;</p> 
 

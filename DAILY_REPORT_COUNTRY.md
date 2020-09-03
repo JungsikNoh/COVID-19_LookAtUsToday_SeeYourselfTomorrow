@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-08-30, COVID-19 Time Series
+## 2020-09-01, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -55,13 +55,13 @@
 
  <p>&nbsp;</p> 
 
-10. Chile <p>
->![img](/output/countries_uptodate/Chile_3plot_combined.png)
+10. Argentina <p>
+>![img](/output/countries_uptodate/Argentina_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-11. Argentina <p>
->![img](/output/countries_uptodate/Argentina_3plot_combined.png)
+11. Chile <p>
+>![img](/output/countries_uptodate/Chile_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -140,13 +140,13 @@
 
  <p>&nbsp;</p> 
 
-27. Bolivia <p>
->![img](/output/countries_uptodate/Bolivia_3plot_combined.png)
+27. Israel <p>
+>![img](/output/countries_uptodate/Israel_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-28. Israel <p>
->![img](/output/countries_uptodate/Israel_3plot_combined.png)
+28. Bolivia <p>
+>![img](/output/countries_uptodate/Bolivia_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -190,13 +190,13 @@
 
  <p>&nbsp;</p> 
 
-37. Belgium <p>
->![img](/output/countries_uptodate/Belgium_3plot_combined.png)
+37. Kuwait <p>
+>![img](/output/countries_uptodate/Kuwait_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-38. Kuwait <p>
->![img](/output/countries_uptodate/Kuwait_3plot_combined.png)
+38. Belgium <p>
+>![img](/output/countries_uptodate/Belgium_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
