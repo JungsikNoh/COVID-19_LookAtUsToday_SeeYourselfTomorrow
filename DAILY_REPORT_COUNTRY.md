@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-09-01, COVID-19 Time Series
+## 2020-09-02, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -35,13 +35,13 @@
 
  <p>&nbsp;</p> 
 
-6. South Africa <p>
->![img](/output/countries_uptodate/South Africa_3plot_combined.png)
+6. Colombia <p>
+>![img](/output/countries_uptodate/Colombia_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-7. Colombia <p>
->![img](/output/countries_uptodate/Colombia_3plot_combined.png)
+7. South Africa <p>
+>![img](/output/countries_uptodate/South Africa_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -75,13 +75,13 @@
 
  <p>&nbsp;</p> 
 
-14. Saudi Arabia <p>
->![img](/output/countries_uptodate/Saudi Arabia_3plot_combined.png)
+14. Bangladesh <p>
+>![img](/output/countries_uptodate/Bangladesh_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-15. Bangladesh <p>
->![img](/output/countries_uptodate/Bangladesh_3plot_combined.png)
+15. Saudi Arabia <p>
+>![img](/output/countries_uptodate/Saudi Arabia_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -135,13 +135,13 @@
 
  <p>&nbsp;</p> 
 
-26. Qatar <p>
->![img](/output/countries_uptodate/Qatar_3plot_combined.png)
+26. Israel <p>
+>![img](/output/countries_uptodate/Israel_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-27. Israel <p>
->![img](/output/countries_uptodate/Israel_3plot_combined.png)
+27. Qatar <p>
+>![img](/output/countries_uptodate/Qatar_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -185,13 +185,13 @@
 
  <p>&nbsp;</p> 
 
-36. Oman <p>
->![img](/output/countries_uptodate/Oman_3plot_combined.png)
+36. Kuwait <p>
+>![img](/output/countries_uptodate/Kuwait_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-37. Kuwait <p>
->![img](/output/countries_uptodate/Kuwait_3plot_combined.png)
+37. Oman <p>
+>![img](/output/countries_uptodate/Oman_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
