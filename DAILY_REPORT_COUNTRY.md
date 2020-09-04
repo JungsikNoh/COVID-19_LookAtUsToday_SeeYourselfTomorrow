@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-09-02, COVID-19 Time Series
+## 2020-09-03, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -75,18 +75,18 @@
 
  <p>&nbsp;</p> 
 
-14. Bangladesh <p>
+14. France <p>
+>![img](/output/countries_uptodate/France_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
+15. Bangladesh <p>
 >![img](/output/countries_uptodate/Bangladesh_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-15. Saudi Arabia <p>
+16. Saudi Arabia <p>
 >![img](/output/countries_uptodate/Saudi Arabia_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
-16. France <p>
->![img](/output/countries_uptodate/France_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -175,13 +175,13 @@
 
  <p>&nbsp;</p> 
 
-34. China <p>
->![img](/output/countries_uptodate/China_3plot_combined.png)
+34. Romania <p>
+>![img](/output/countries_uptodate/Romania_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-35. Romania <p>
->![img](/output/countries_uptodate/Romania_3plot_combined.png)
+35. China <p>
+>![img](/output/countries_uptodate/China_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -190,13 +190,13 @@
 
  <p>&nbsp;</p> 
 
-37. Oman <p>
->![img](/output/countries_uptodate/Oman_3plot_combined.png)
+37. Belgium <p>
+>![img](/output/countries_uptodate/Belgium_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-38. Belgium <p>
->![img](/output/countries_uptodate/Belgium_3plot_combined.png)
+38. Oman <p>
+>![img](/output/countries_uptodate/Oman_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -210,13 +210,13 @@
 
  <p>&nbsp;</p> 
 
-41. Belarus <p>
->![img](/output/countries_uptodate/Belarus_3plot_combined.png)
+41. Netherlands <p>
+>![img](/output/countries_uptodate/Netherlands_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-42. Netherlands <p>
->![img](/output/countries_uptodate/Netherlands_3plot_combined.png)
+42. Belarus <p>
+>![img](/output/countries_uptodate/Belarus_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -255,8 +255,8 @@
 
  <p>&nbsp;</p> 
 
-50. Nigeria <p>
->![img](/output/countries_uptodate/Nigeria_3plot_combined.png)
+50. Ethiopia <p>
+>![img](/output/countries_uptodate/Ethiopia_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
