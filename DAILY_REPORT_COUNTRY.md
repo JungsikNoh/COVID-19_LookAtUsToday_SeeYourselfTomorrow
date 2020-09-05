@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-09-03, COVID-19 Time Series
+## 2020-09-04, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -105,13 +105,13 @@
 
  <p>&nbsp;</p> 
 
-20. Germany <p>
->![img](/output/countries_uptodate/Germany_3plot_combined.png)
+20. Iraq <p>
+>![img](/output/countries_uptodate/Iraq_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-21. Iraq <p>
->![img](/output/countries_uptodate/Iraq_3plot_combined.png)
+21. Germany <p>
+>![img](/output/countries_uptodate/Germany_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -125,13 +125,13 @@
 
  <p>&nbsp;</p> 
 
-24. Canada <p>
->![img](/output/countries_uptodate/Canada_3plot_combined.png)
+24. Ukraine <p>
+>![img](/output/countries_uptodate/Ukraine_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-25. Ukraine <p>
->![img](/output/countries_uptodate/Ukraine_3plot_combined.png)
+25. Canada <p>
+>![img](/output/countries_uptodate/Canada_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -215,13 +215,13 @@
 
  <p>&nbsp;</p> 
 
-42. Belarus <p>
->![img](/output/countries_uptodate/Belarus_3plot_combined.png)
+42. United Arab Emirates <p>
+>![img](/output/countries_uptodate/United Arab Emirates_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-43. United Arab Emirates <p>
->![img](/output/countries_uptodate/United Arab Emirates_3plot_combined.png)
+43. Belarus <p>
+>![img](/output/countries_uptodate/Belarus_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
