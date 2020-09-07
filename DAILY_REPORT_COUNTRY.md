@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-09-04, COVID-19 Time Series
+## 2020-09-05, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -140,13 +140,13 @@
 
  <p>&nbsp;</p> 
 
-27. Qatar <p>
->![img](/output/countries_uptodate/Qatar_3plot_combined.png)
+27. Bolivia <p>
+>![img](/output/countries_uptodate/Bolivia_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-28. Bolivia <p>
->![img](/output/countries_uptodate/Bolivia_3plot_combined.png)
+28. Qatar <p>
+>![img](/output/countries_uptodate/Qatar_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -250,13 +250,13 @@
 
  <p>&nbsp;</p> 
 
-49. Singapore <p>
->![img](/output/countries_uptodate/Singapore_3plot_combined.png)
+49. Ethiopia <p>
+>![img](/output/countries_uptodate/Ethiopia_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-50. Ethiopia <p>
->![img](/output/countries_uptodate/Ethiopia_3plot_combined.png)
+50. Singapore <p>
+>![img](/output/countries_uptodate/Singapore_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
