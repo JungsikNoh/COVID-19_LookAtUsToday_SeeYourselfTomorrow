@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-09-05, COVID-19 Time Series
+## 2020-09-06, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -15,13 +15,13 @@
 
  <p>&nbsp;</p> 
 
-2. Brazil <p>
->![img](/output/countries_uptodate/Brazil_3plot_combined.png)
+2. India <p>
+>![img](/output/countries_uptodate/India_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-3. India <p>
->![img](/output/countries_uptodate/India_3plot_combined.png)
+3. Brazil <p>
+>![img](/output/countries_uptodate/Brazil_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
@@ -225,18 +225,18 @@
 
  <p>&nbsp;</p> 
 
-44. Japan <p>
+44. Morocco <p>
+>![img](/output/countries_uptodate/Morocco_3plot_combined.png)
+
+ <p>&nbsp;</p> 
+
+45. Japan <p>
 >![img](/output/countries_uptodate/Japan_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
-45. Poland <p>
+46. Poland <p>
 >![img](/output/countries_uptodate/Poland_3plot_combined.png)
-
- <p>&nbsp;</p> 
-
-46. Morocco <p>
->![img](/output/countries_uptodate/Morocco_3plot_combined.png)
 
  <p>&nbsp;</p> 
 
