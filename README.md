@@ -1,3 +1,10 @@
+## This pipeline was upgraded.
+
+- Please visit [a new repository](https://github.com/JungsikNoh/COVID19_Estimated-Size-of-Infectious-Population) for new COVID-19 reports. 
+
+<p>&nbsp;</p> 
+
+
 # COVID-19 Time Series: Look at Us Today, See Yourself Tomorrow
 
 
